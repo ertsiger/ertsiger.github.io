@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Furelos-Blanco</title>
+    <link>/authors/daniel-furelos-blanco/</link>
+    <description>Recent content on Daniel Furelos-Blanco</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Jan 2019 20:11:14 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/daniel-furelos-blanco/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Solving Multiagent Planning Problems with Concurrent Conditional Effects</title>
+      <link>/publication/aaai19/</link>
+      <pubDate>Mon, 28 Jan 2019 20:11:14 +0000</pubDate>
+      
+      <guid>/publication/aaai19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CARPooL: Collective Adaptation using concuRrent PLanning</title>
+      <link>/publication/aamas18-demo/</link>
+      <pubDate>Sat, 14 Jul 2018 20:11:14 +0000</pubDate>
+      
+      <guid>/publication/aamas18-demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collective Adaptation through Concurrent Planning: the Case of Sustainable Urban Mobility</title>
+      <link>/publication/aamas18/</link>
+      <pubDate>Sat, 14 Jul 2018 20:11:14 +0000</pubDate>
+      
+      <guid>/publication/aamas18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forward-Search Temporal Planning with Simultaneous Events</title>
+      <link>/publication/coplas18/</link>
+      <pubDate>Sat, 30 Jun 2018 20:11:14 +0000</pubDate>
+      
+      <guid>/publication/coplas18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving Concurrent Multiagent Planning using Classical Planning</title>
+      <link>/publication/dmap18/</link>
+      <pubDate>Sat, 30 Jun 2018 20:11:14 +0000</pubDate>
+      
+      <guid>/publication/dmap18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resolution of Concurrent Planning Problems using Classical Planning</title>
+      <link>/publication/master-thesis/</link>
+      <pubDate>Thu, 07 Sep 2017 20:11:14 +0000</pubDate>
+      
+      <guid>/publication/master-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning and Generalization in Atari Games</title>
+      <link>/publication/bachelors-thesis/</link>
+      <pubDate>Tue, 07 Jul 2015 20:11:14 +0000</pubDate>
+      
+      <guid>/publication/bachelors-thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

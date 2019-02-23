@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Furelos-Blanco</title>
+    <link>/</link>
+    <description>Recent content on Daniel Furelos-Blanco</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Jan 2019 20:11:14 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/hero_carousel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>/home/hero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/hero/</guid>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>/home/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accomplish&amp;shy;ments</title>
+      <link>/home/accomplishments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/accomplishments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Featured Publications</title>
+      <link>/home/publications_featured/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/publications_featured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/home/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Featured Talks</title>
+      <link>/home/talks_featured/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/talks_featured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/home/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>/home/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/home/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom Section</title>
+      <link>/home/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/teaching/</guid>
+      <description>This is an example of using the custom widget to create your own homepage section.
+To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>/home/tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving Multiagent Planning Problems with Concurrent Conditional Effects</title>
+      <link>/publication/aaai19/</link>
+      <pubDate>Mon, 28 Jan 2019 20:11:14 +0000</pubDate>
+      
+      <guid>/publication/aaai19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CARPooL: Collective Adaptation using concuRrent PLanning</title>
+      <link>/publication/aamas18-demo/</link>
+      <pubDate>Sat, 14 Jul 2018 20:11:14 +0000</pubDate>
+      
+      <guid>/publication/aamas18-demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collective Adaptation through Concurrent Planning: the Case of Sustainable Urban Mobility</title>
+      <link>/publication/aamas18/</link>
+      <pubDate>Sat, 14 Jul 2018 20:11:14 +0000</pubDate>
+      
+      <guid>/publication/aamas18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forward-Search Temporal Planning with Simultaneous Events</title>
+      <link>/publication/coplas18/</link>
+      <pubDate>Sat, 30 Jun 2018 20:11:14 +0000</pubDate>
+      
+      <guid>/publication/coplas18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving Concurrent Multiagent Planning using Classical Planning</title>
+      <link>/publication/dmap18/</link>
+      <pubDate>Sat, 30 Jun 2018 20:11:14 +0000</pubDate>
+      
+      <guid>/publication/dmap18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resolution of Concurrent Planning Problems using Classical Planning</title>
+      <link>/publication/master-thesis/</link>
+      <pubDate>Thu, 07 Sep 2017 20:11:14 +0000</pubDate>
+      
+      <guid>/publication/master-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early Experiences in Graphic Design</title>
+      <link>/post/2016-02-29-early-experiences-in-graphic-design/</link>
+      <pubDate>Mon, 29 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2016-02-29-early-experiences-in-graphic-design/</guid>
+      <description>This time I&amp;rsquo;m going to talk about a kind of spin-off of my previous post, where I explained some experiences in the PSP scene. The parallel experience consisted in learning how to use design programs like Adobe Photoshop and GIMP. Here is the explanation of how I started designing signatures in forums!
+As soon as I had my PSP hacked, my participation in forums began to increase. I had previously visited some of them but just as a visitor, especially in ESPALPSP as I explained in the first post related to these &amp;ldquo;adventures&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Adventures in the PSP Scene</title>
+      <link>/post/2016-01-30-adventures-psp-scene/</link>
+      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2016-01-30-adventures-psp-scene/</guid>
+      <description>In this post I&amp;rsquo;m going to explain my experiences in the PSP scene. The PSP scene opened many doors for me: meet new people, learn to use design programs, start programming for first time in my life, &amp;hellip; Definitely, what I lived from 2007 to 2010 thanks to the PSP community was incredibly helpful for me from then on.
+I&amp;rsquo;ve divided in several chapters the whole content. You can access these chapters from the table of contents below.</description>
+    </item>
+    
+    <item>
+      <title>Wireless Sensor Networks (WSN) using Arduino and XBee</title>
+      <link>/post/2016-01-10-wsn-using-arduino/</link>
+      <pubDate>Sun, 10 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2016-01-10-wsn-using-arduino/</guid>
+      <description>I have decided to write my first real post. I&amp;rsquo;m going to briefly write about a bunch of projects related to Wireless Sensor Networks (WSN) using Arduino boards and XBee modules.
+During my 3rd year in the Computer Science degree (2013 - 2014), I coursed a subject called Wireless Sensor Networks (WSN). My teammates, Sergio Barrachina Muñoz and Francesc Wilhelmi Roca, and me did some projects during this course.
+During the course, we used an Arduino board (which now outside USA is called Genuino) together with some electronic components (e.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to my blog!</title>
+      <link>/post/2016-01-03-welcome-to-my-blog/</link>
+      <pubDate>Sun, 03 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2016-01-03-welcome-to-my-blog/</guid>
+      <description>Hi everyone! After some months (and even years) thinking about starting my own webpage, I have finally done it. The main reason for which I did not do it before was that I thought I could not explain anything interesting&amp;hellip; and maybe I cannot! However, I wanted to have a place where I could explain experiences, as well as things I have learnt, things I am learning, and things I will (hopefully) learn.</description>
+    </item>
+    
+    <item>
+      <title>Learning and Generalization in Atari Games</title>
+      <link>/publication/bachelors-thesis/</link>
+      <pubDate>Tue, 07 Jul 2015 20:11:14 +0000</pubDate>
+      
+      <guid>/publication/bachelors-thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

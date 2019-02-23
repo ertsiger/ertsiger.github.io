@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Daniel Furelos-Blanco</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Daniel Furelos-Blanco</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Jan 2019 20:11:14 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anders Jonsson</title>
+      <link>/authors/anders-jonsson/</link>
+      <pubDate>Mon, 28 Jan 2019 20:11:14 +0000</pubDate>
+      
+      <guid>/authors/anders-jonsson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antonio Bucchiarone</title>
+      <link>/authors/antonio-bucchiarone/</link>
+      <pubDate>Sat, 14 Jul 2018 20:11:14 +0000</pubDate>
+      
+      <guid>/authors/antonio-bucchiarone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Furelos-Blanco</title>
+      <link>/authors/daniel-furelos-blanco/</link>
+      <pubDate>Mon, 28 Jan 2019 20:11:14 +0000</pubDate>
+      
+      <guid>/authors/daniel-furelos-blanco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fahmida Khandokar</title>
+      <link>/authors/fahmida-khandokar/</link>
+      <pubDate>Sat, 14 Jul 2018 20:11:14 +0000</pubDate>
+      
+      <guid>/authors/fahmida-khandokar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Héctor Palacios</title>
+      <link>/authors/h%C3%A9ctor-palacios/</link>
+      <pubDate>Sat, 30 Jun 2018 20:11:14 +0000</pubDate>
+      
+      <guid>/authors/h%C3%A9ctor-palacios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monjur Mourshed</title>
+      <link>/authors/monjur-mourshed/</link>
+      <pubDate>Sat, 14 Jul 2018 20:11:14 +0000</pubDate>
+      
+      <guid>/authors/monjur-mourshed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sergio Jiménez</title>
+      <link>/authors/sergio-jim%C3%A9nez/</link>
+      <pubDate>Sat, 30 Jun 2018 20:11:14 +0000</pubDate>
+      
+      <guid>/authors/sergio-jim%C3%A9nez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>supervised by Anders Jonsson</title>
+      <link>/authors/supervised-by-anders-jonsson/</link>
+      <pubDate>Thu, 07 Sep 2017 20:11:14 +0000</pubDate>
+      
+      <guid>/authors/supervised-by-anders-jonsson/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
