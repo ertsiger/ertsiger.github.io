@@ -1,58 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Anders Jonsson on Daniel Furelos-Blanco</title>
-    <link>/authors/anders-jonsson/</link>
-    <description>Recent content in Anders Jonsson on Daniel Furelos-Blanco</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 28 Jan 2019 20:11:14 +0000</lastBuildDate>
-    
-	<atom:link href="/authors/anders-jonsson/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Anders Jonsson | Daniel Furelos-Blanco</title>
+    <link>https://danielfurelos.com/authors/anders-jonsson/</link>
+      <atom:link href="https://danielfurelos.com/authors/anders-jonsson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anders Jonsson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Jan 2019 20:11:14 +0000</lastBuildDate>
+    <image>
+      <url>https://danielfurelos.com/img/icon-192.png</url>
+      <title>Anders Jonsson</title>
+      <link>https://danielfurelos.com/authors/anders-jonsson/</link>
+    </image>
     
     <item>
       <title>Solving Multiagent Planning Problems with Concurrent Conditional Effects</title>
-      <link>/publication/aaai19/</link>
+      <link>https://danielfurelos.com/publication/aaai19/</link>
       <pubDate>Mon, 28 Jan 2019 20:11:14 +0000</pubDate>
-      
-      <guid>/publication/aaai19/</guid>
+      <guid>https://danielfurelos.com/publication/aaai19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CARPooL: Collective Adaptation using concuRrent PLanning</title>
-      <link>/publication/aamas18-demo/</link>
+      <link>https://danielfurelos.com/publication/aamas18-demo/</link>
       <pubDate>Sat, 14 Jul 2018 20:11:14 +0000</pubDate>
-      
-      <guid>/publication/aamas18-demo/</guid>
+      <guid>https://danielfurelos.com/publication/aamas18-demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Collective Adaptation through Concurrent Planning: the Case of Sustainable Urban Mobility</title>
-      <link>/publication/aamas18/</link>
+      <link>https://danielfurelos.com/publication/aamas18/</link>
       <pubDate>Sat, 14 Jul 2018 20:11:14 +0000</pubDate>
-      
-      <guid>/publication/aamas18/</guid>
+      <guid>https://danielfurelos.com/publication/aamas18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Forward-Search Temporal Planning with Simultaneous Events</title>
-      <link>/publication/coplas18/</link>
+      <link>https://danielfurelos.com/publication/coplas18/</link>
       <pubDate>Sat, 30 Jun 2018 20:11:14 +0000</pubDate>
-      
-      <guid>/publication/coplas18/</guid>
+      <guid>https://danielfurelos.com/publication/coplas18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solving Concurrent Multiagent Planning using Classical Planning</title>
-      <link>/publication/dmap18/</link>
+      <link>https://danielfurelos.com/publication/dmap18/</link>
       <pubDate>Sat, 30 Jun 2018 20:11:14 +0000</pubDate>
-      
-      <guid>/publication/dmap18/</guid>
+      <guid>https://danielfurelos.com/publication/dmap18/</guid>
       <description></description>
     </item>
     

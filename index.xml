@@ -1,73 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Daniel Furelos-Blanco on Daniel Furelos-Blanco</title>
-    <link>/</link>
-    <description>Recent content in Daniel Furelos-Blanco on Daniel Furelos-Blanco</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 28 Jan 2019 20:11:14 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <title>Daniel Furelos-Blanco</title>
+    <link>https://danielfurelos.com/</link>
+      <atom:link href="https://danielfurelos.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel Furelos-Blanco</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Jan 2019 20:11:14 +0000</lastBuildDate>
+    <image>
+      <url>https://danielfurelos.com/img/icon-192.png</url>
+      <title>Daniel Furelos-Blanco</title>
+      <link>https://danielfurelos.com/</link>
+    </image>
     
     <item>
       <title>Solving Multiagent Planning Problems with Concurrent Conditional Effects</title>
-      <link>/publication/aaai19/</link>
+      <link>https://danielfurelos.com/publication/aaai19/</link>
       <pubDate>Mon, 28 Jan 2019 20:11:14 +0000</pubDate>
-      
-      <guid>/publication/aaai19/</guid>
+      <guid>https://danielfurelos.com/publication/aaai19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CARPooL: Collective Adaptation using concuRrent PLanning</title>
-      <link>/publication/aamas18-demo/</link>
+      <link>https://danielfurelos.com/publication/aamas18-demo/</link>
       <pubDate>Sat, 14 Jul 2018 20:11:14 +0000</pubDate>
-      
-      <guid>/publication/aamas18-demo/</guid>
+      <guid>https://danielfurelos.com/publication/aamas18-demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Collective Adaptation through Concurrent Planning: the Case of Sustainable Urban Mobility</title>
-      <link>/publication/aamas18/</link>
+      <link>https://danielfurelos.com/publication/aamas18/</link>
       <pubDate>Sat, 14 Jul 2018 20:11:14 +0000</pubDate>
-      
-      <guid>/publication/aamas18/</guid>
+      <guid>https://danielfurelos.com/publication/aamas18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Forward-Search Temporal Planning with Simultaneous Events</title>
-      <link>/publication/coplas18/</link>
+      <link>https://danielfurelos.com/publication/coplas18/</link>
       <pubDate>Sat, 30 Jun 2018 20:11:14 +0000</pubDate>
-      
-      <guid>/publication/coplas18/</guid>
+      <guid>https://danielfurelos.com/publication/coplas18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solving Concurrent Multiagent Planning using Classical Planning</title>
-      <link>/publication/dmap18/</link>
+      <link>https://danielfurelos.com/publication/dmap18/</link>
       <pubDate>Sat, 30 Jun 2018 20:11:14 +0000</pubDate>
-      
-      <guid>/publication/dmap18/</guid>
+      <guid>https://danielfurelos.com/publication/dmap18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resolution of Concurrent Planning Problems using Classical Planning</title>
-      <link>/publication/master-thesis/</link>
+      <link>https://danielfurelos.com/publication/master-thesis/</link>
       <pubDate>Thu, 07 Sep 2017 20:11:14 +0000</pubDate>
-      
-      <guid>/publication/master-thesis/</guid>
+      <guid>https://danielfurelos.com/publication/master-thesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Early Experiences in Graphic Design</title>
-      <link>/post/2016-02-29-early-experiences-in-graphic-design/</link>
+      <link>https://danielfurelos.com/post/2016-02-29-early-experiences-in-graphic-design/</link>
       <pubDate>Mon, 29 Feb 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2016-02-29-early-experiences-in-graphic-design/</guid>
+      <guid>https://danielfurelos.com/post/2016-02-29-early-experiences-in-graphic-design/</guid>
       <description>&lt;p&gt;This time I&amp;rsquo;m going to talk about a kind of spin-off of my previous post, where
 I explained some experiences in the PSP scene. The parallel experience
 consisted in learning how to use design programs like Adobe Photoshop and GIMP.
@@ -98,12 +95,26 @@ and there were too many effects applied, but I felt (and I feel) very proud of i
 
 
 
+
+
+
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;http://orig04.deviantart.net/0afb/f/2009/098/0/d/kon___1st_gen_by_m14b2.png&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;http://orig04.deviantart.net/0afb/f/2009/098/0/d/kon___1st_gen_by_m14b2.png&#34; &gt;
+&lt;img src=&#34;http://orig04.deviantart.net/0afb/f/2009/098/0/d/kon___1st_gen_by_m14b2.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
 
 
 &lt;/figure&gt;
+
 
 &lt;p&gt;You might have wondered what does M14_b2 mean? Well, that was my second
 name in the Internet after Ertsiger (which I have recently started to use
@@ -145,12 +156,26 @@ my respect for him and his work.&lt;/p&gt;&lt;/li&gt;
 
   
 
+
+
+
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;/img/blog/2016-02-29-early-experiences-in-graphic-design/m14_b2-avatars.png&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://danielfurelos.com/img/blog/2016-02-29-early-experiences-in-graphic-design/m14_b2-avatars.png&#34; &gt;
+&lt;img src=&#34;https://danielfurelos.com/img/blog/2016-02-29-early-experiences-in-graphic-design/m14_b2-avatars.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
 
 
 &lt;/figure&gt;
+
 
 &lt;p&gt;ESPALPSP was not the only place where I participated. Sometime after I started posting at
 ESPALPSP, another similar website called EstrenosPSP launched. Given my huge interest in
@@ -179,12 +204,26 @@ which made me feel very well, especially when people were happy about the result
 
 
 
+
+
+
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;http://img05.deviantart.net/2355/i/2010/197/7/9/ezio_auditore_sign_by_m14b2.png&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;http://img05.deviantart.net/2355/i/2010/197/7/9/ezio_auditore_sign_by_m14b2.png&#34; &gt;
+&lt;img src=&#34;http://img05.deviantart.net/2355/i/2010/197/7/9/ezio_auditore_sign_by_m14b2.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
 
 
 &lt;/figure&gt;
+
 
 &lt;p&gt;Finally, I want to say that I didn&amp;rsquo;t only designed signatures and avatars, but also interfaces (for PSP
 applications, of course)! I did interfaces for my applications and also for the programming team in
@@ -196,12 +235,26 @@ me, I accepted (he told me to use a wallpaper he found, and make the design over
 
 
 
+
+
+
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;http://orig11.deviantart.net/756b/f/2009/114/8/c/iaplicationx_main_menu_by_m14b2.png&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;http://orig11.deviantart.net/756b/f/2009/114/8/c/iaplicationx_main_menu_by_m14b2.png&#34; &gt;
+&lt;img src=&#34;http://orig11.deviantart.net/756b/f/2009/114/8/c/iaplicationx_main_menu_by_m14b2.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
 
 
 &lt;/figure&gt;
+
 
 &lt;p&gt;And that&amp;rsquo;s it! I hope you have liked this new post. If you want to start doing this kind of stuff,
 I highly encourage you to visit &lt;a href=&#34;http://www.deviantart.com/&#34; target=&#34;_blank&#34;&gt;DeviantArt&lt;/a&gt;. Extremely talented designers
@@ -216,10 +269,9 @@ are not there. I believe someday I will make an update. You can check my gallery
     
     <item>
       <title>Adventures in the PSP Scene</title>
-      <link>/post/2016-01-30-adventures-psp-scene/</link>
+      <link>https://danielfurelos.com/post/2016-01-30-adventures-psp-scene/</link>
       <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2016-01-30-adventures-psp-scene/</guid>
+      <guid>https://danielfurelos.com/post/2016-01-30-adventures-psp-scene/</guid>
       <description>
 
 &lt;p&gt;In this post I&amp;rsquo;m going to explain my experiences in the PSP scene.
@@ -289,12 +341,26 @@ a permanent effect.&lt;/p&gt;
 
   
 
+
+
+
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;/img/blog/2016-01-30-adventures-psp-scene/psp-motivational-kit.jpg&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://danielfurelos.com/img/blog/2016-01-30-adventures-psp-scene/psp-motivational-kit.jpg&#34; &gt;
+&lt;img src=&#34;https://danielfurelos.com/img/blog/2016-01-30-adventures-psp-scene/psp-motivational-kit.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
 
 
 &lt;/figure&gt;
+
 
 &lt;p&gt;This revelation really motivated me to achieve the same result. I asked him how
 did he do it, and he told me &lt;em&gt;&amp;ldquo;After investigating quite a lot&amp;hellip;&amp;rdquo;&lt;/em&gt;. He also told
@@ -357,12 +423,26 @@ went quite well.&lt;/p&gt;
 
   
 
+
+
+
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;/img/blog/2016-01-30-adventures-psp-scene/installer_3_40_oe.png&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://danielfurelos.com/img/blog/2016-01-30-adventures-psp-scene/installer_3_40_oe.png&#34; &gt;
+&lt;img src=&#34;https://danielfurelos.com/img/blog/2016-01-30-adventures-psp-scene/installer_3_40_oe.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
 
 
 &lt;/figure&gt;
+
 
 &lt;p&gt;From that moment, I started to take advantage that a Custom Firmware had:
 play PlayStation games, other PSP games, and even I could make the CPU work faster
@@ -452,12 +532,26 @@ VSH menu originally developed by Red Squirrel. You can see it below.&lt;/p&gt;
 
   
 
+
+
+
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;/img/blog/2016-01-30-adventures-psp-scene/vsh_meu_red_squirrel_translation.jpg&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://danielfurelos.com/img/blog/2016-01-30-adventures-psp-scene/vsh_meu_red_squirrel_translation.jpg&#34; &gt;
+&lt;img src=&#34;https://danielfurelos.com/img/blog/2016-01-30-adventures-psp-scene/vsh_meu_red_squirrel_translation.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
 
 
 &lt;/figure&gt;
+
 
 &lt;p&gt;I have got this image from a Wordpress blog I created to post my projects. It stayed
 updated only for a week during June 2008. You can click &lt;a href=&#34;https://m14b2projects.wordpress.com/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;
@@ -527,12 +621,26 @@ the orange flashing LED of the PSP (which indicated that the memory card was acc
 
   
 
+
+
+
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;/img/blog/2016-01-30-adventures-psp-scene/ocultador_2_0_m14_b2.jpg&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://danielfurelos.com/img/blog/2016-01-30-adventures-psp-scene/ocultador_2_0_m14_b2.jpg&#34; &gt;
+&lt;img src=&#34;https://danielfurelos.com/img/blog/2016-01-30-adventures-psp-scene/ocultador_2_0_m14_b2.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
 
 
 &lt;/figure&gt;
+
 
 &lt;p&gt;Obviously, new software which does the same as existing software without contributing
 anything original, is doomed to be ignored. And that&amp;rsquo;s what happened.
@@ -620,12 +728,26 @@ an international programming contest: the Scenery Beta International Homebrew Sh
 
   
 
+
+
+
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;/img/blog/2016-01-30-adventures-psp-scene/scenery_beta_psp_splash.jpg&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://danielfurelos.com/img/blog/2016-01-30-adventures-psp-scene/scenery_beta_psp_splash.jpg&#34; &gt;
+&lt;img src=&#34;https://danielfurelos.com/img/blog/2016-01-30-adventures-psp-scene/scenery_beta_psp_splash.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
 
 
 &lt;/figure&gt;
+
 
 &lt;p&gt;It consisted of different categories, one for each different platform: PSP, NintendoDS, PC and Wii.
 For each category, there were two subcategories: games and apps. The five most
@@ -662,12 +784,26 @@ it was correct, but I suppose Google set up a trap for me.&lt;/p&gt;
 
   
 
+
+
+
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;/img/blog/2016-01-30-adventures-psp-scene/neohider/neohider_1.png&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://danielfurelos.com/img/blog/2016-01-30-adventures-psp-scene/neohider/neohider_1.png&#34; &gt;
+&lt;img src=&#34;https://danielfurelos.com/img/blog/2016-01-30-adventures-psp-scene/neohider/neohider_1.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
 
 
 &lt;/figure&gt;
+
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&#34;col-md-6 col-sm-6 col-xs-6&#34;&gt;
@@ -677,12 +813,26 @@ it was correct, but I suppose Google set up a trap for me.&lt;/p&gt;
 
   
 
+
+
+
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;/img/blog/2016-01-30-adventures-psp-scene/neohider/neohider_2.png&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://danielfurelos.com/img/blog/2016-01-30-adventures-psp-scene/neohider/neohider_2.png&#34; &gt;
+&lt;img src=&#34;https://danielfurelos.com/img/blog/2016-01-30-adventures-psp-scene/neohider/neohider_2.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
 
 
 &lt;/figure&gt;
+
             &lt;/a&gt;
         &lt;/div&gt;
     &lt;/div&gt;
@@ -696,12 +846,26 @@ it was correct, but I suppose Google set up a trap for me.&lt;/p&gt;
 
   
 
+
+
+
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;/img/blog/2016-01-30-adventures-psp-scene/neohider/neohider_13.png&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://danielfurelos.com/img/blog/2016-01-30-adventures-psp-scene/neohider/neohider_13.png&#34; &gt;
+&lt;img src=&#34;https://danielfurelos.com/img/blog/2016-01-30-adventures-psp-scene/neohider/neohider_13.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
 
 
 &lt;/figure&gt;
+
             &lt;/a&gt;
         &lt;/div&gt;
     &lt;/div&gt;
@@ -712,12 +876,26 @@ it was correct, but I suppose Google set up a trap for me.&lt;/p&gt;
 
   
 
+
+
+
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;/img/blog/2016-01-30-adventures-psp-scene/neohider/neohider_11.png&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://danielfurelos.com/img/blog/2016-01-30-adventures-psp-scene/neohider/neohider_11.png&#34; &gt;
+&lt;img src=&#34;https://danielfurelos.com/img/blog/2016-01-30-adventures-psp-scene/neohider/neohider_11.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
 
 
 &lt;/figure&gt;
+
             &lt;/a&gt;
         &lt;/div&gt;
     &lt;/div&gt;
@@ -766,12 +944,26 @@ time we published it, using VLF was a huge trend.&lt;/p&gt;
 
   
 
+
+
+
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;/img/blog/2016-01-30-adventures-psp-scene/maxflasher/maxflasher_2.png&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://danielfurelos.com/img/blog/2016-01-30-adventures-psp-scene/maxflasher/maxflasher_2.png&#34; &gt;
+&lt;img src=&#34;https://danielfurelos.com/img/blog/2016-01-30-adventures-psp-scene/maxflasher/maxflasher_2.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
 
 
 &lt;/figure&gt;
+
 
 &lt;p&gt;In 2009, SceneBeta was organizing again the Scenery Beta contest. We were
 going to participate and this time I would count as a member of the team.
@@ -862,10 +1054,9 @@ enjoyed reading it!&lt;/p&gt;
     
     <item>
       <title>Wireless Sensor Networks (WSN) using Arduino and XBee</title>
-      <link>/post/2016-01-10-wsn-using-arduino/</link>
+      <link>https://danielfurelos.com/post/2016-01-10-wsn-using-arduino/</link>
       <pubDate>Sun, 10 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2016-01-10-wsn-using-arduino/</guid>
+      <guid>https://danielfurelos.com/post/2016-01-10-wsn-using-arduino/</guid>
       <description>&lt;p&gt;I have decided to write my first real post. I&amp;rsquo;m going to briefly write
 about a bunch of projects related to Wireless Sensor Networks (WSN) using
 Arduino boards and XBee modules.&lt;/p&gt;
@@ -887,12 +1078,26 @@ used a pair of &lt;a href=&#34;http://www.digi.com/lp/xbee&#34; target=&#34;_bla
 
   
 
+
+
+
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;/img/blog/2016-01-10-wsn-using-arduino/arduino-xbee.jpg&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://danielfurelos.com/img/blog/2016-01-10-wsn-using-arduino/arduino-xbee.jpg&#34; &gt;
+&lt;img src=&#34;https://danielfurelos.com/img/blog/2016-01-10-wsn-using-arduino/arduino-xbee.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
 
 
 &lt;/figure&gt;
+
 
 &lt;p&gt;The course followed a pretty different structure from what the students of
 Pompeu Fabra University are used to. In fact, not only the students, but also
@@ -965,10 +1170,9 @@ Connecting data, people and knowledge, the objective of the platform is to serve
     
     <item>
       <title>Welcome to my blog!</title>
-      <link>/post/2016-01-03-welcome-to-my-blog/</link>
+      <link>https://danielfurelos.com/post/2016-01-03-welcome-to-my-blog/</link>
       <pubDate>Sun, 03 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2016-01-03-welcome-to-my-blog/</guid>
+      <guid>https://danielfurelos.com/post/2016-01-03-welcome-to-my-blog/</guid>
       <description>&lt;p&gt;Hi everyone! After some months (and even years) thinking about starting my own
 webpage, I have finally done it. The main reason for which I did not do it
 before was that I thought I could not explain anything interesting&amp;hellip; and maybe
@@ -999,10 +1203,9 @@ think I will upload some content there although I will not do any more
     
     <item>
       <title>Learning and Generalization in Atari Games</title>
-      <link>/publication/bachelors-thesis/</link>
+      <link>https://danielfurelos.com/publication/bachelors-thesis/</link>
       <pubDate>Tue, 07 Jul 2015 20:11:14 +0000</pubDate>
-      
-      <guid>/publication/bachelors-thesis/</guid>
+      <guid>https://danielfurelos.com/publication/bachelors-thesis/</guid>
       <description></description>
     </item>
     

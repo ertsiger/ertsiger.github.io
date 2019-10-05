@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Héctor Palacios | Daniel Furelos-Blanco</title>
+    <link>https://danielfurelos.com/authors/hector-palacios/</link>
+      <atom:link href="https://danielfurelos.com/authors/hector-palacios/index.xml" rel="self" type="application/rss+xml" />
+    <description>Héctor Palacios</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 30 Jun 2018 20:11:14 +0000</lastBuildDate>
+    <image>
+      <url>https://danielfurelos.com/img/icon-192.png</url>
+      <title>Héctor Palacios</title>
+      <link>https://danielfurelos.com/authors/hector-palacios/</link>
+    </image>
+    
+    <item>
+      <title>Forward-Search Temporal Planning with Simultaneous Events</title>
+      <link>https://danielfurelos.com/publication/coplas18/</link>
+      <pubDate>Sat, 30 Jun 2018 20:11:14 +0000</pubDate>
+      <guid>https://danielfurelos.com/publication/coplas18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

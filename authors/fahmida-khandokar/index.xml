@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fahmida Khandokar on Daniel Furelos-Blanco</title>
-    <link>/authors/fahmida-khandokar/</link>
-    <description>Recent content in Fahmida Khandokar on Daniel Furelos-Blanco</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 14 Jul 2018 20:11:14 +0000</lastBuildDate>
-    
-	<atom:link href="/authors/fahmida-khandokar/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Fahmida Khandokar | Daniel Furelos-Blanco</title>
+    <link>https://danielfurelos.com/authors/fahmida-khandokar/</link>
+      <atom:link href="https://danielfurelos.com/authors/fahmida-khandokar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fahmida Khandokar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 14 Jul 2018 20:11:14 +0000</lastBuildDate>
+    <image>
+      <url>https://danielfurelos.com/img/icon-192.png</url>
+      <title>Fahmida Khandokar</title>
+      <link>https://danielfurelos.com/authors/fahmida-khandokar/</link>
+    </image>
     
     <item>
       <title>Collective Adaptation through Concurrent Planning: the Case of Sustainable Urban Mobility</title>
-      <link>/publication/aamas18/</link>
+      <link>https://danielfurelos.com/publication/aamas18/</link>
       <pubDate>Sat, 14 Jul 2018 20:11:14 +0000</pubDate>
-      
-      <guid>/publication/aamas18/</guid>
+      <guid>https://danielfurelos.com/publication/aamas18/</guid>
       <description></description>
     </item>
     
