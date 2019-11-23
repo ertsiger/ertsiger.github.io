@@ -5,12 +5,20 @@
     <link>https://danielfurelos.com/publication/</link>
       <atom:link href="https://danielfurelos.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Jan 2019 20:11:14 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 22 Nov 2019 20:11:14 +0000</lastBuildDate>
     <image>
       <url>https://danielfurelos.com/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://danielfurelos.com/publication/</link>
     </image>
+    
+    <item>
+      <title>Induction of Subgoal Automata for Reinforcement Learning</title>
+      <link>https://danielfurelos.com/publication/aaai20/</link>
+      <pubDate>Fri, 22 Nov 2019 20:11:14 +0000</pubDate>
+      <guid>https://danielfurelos.com/publication/aaai20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Solving Multiagent Planning Problems with Concurrent Conditional Effects</title>

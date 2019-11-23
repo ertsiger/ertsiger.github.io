@@ -5,7 +5,7 @@
     <link>https://danielfurelos.com/authors/</link>
       <atom:link href="https://danielfurelos.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Jan 2019 20:11:14 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 22 Nov 2019 20:11:14 +0000</lastBuildDate>
     <image>
       <url>https://danielfurelos.com/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Alessandra Russo</title>
+      <link>https://danielfurelos.com/authors/alessandra-russo/</link>
+      <pubDate>Fri, 22 Nov 2019 20:11:14 +0000</pubDate>
+      <guid>https://danielfurelos.com/authors/alessandra-russo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Anders Jonsson</title>
       <link>https://danielfurelos.com/authors/anders-jonsson/</link>
-      <pubDate>Mon, 28 Jan 2019 20:11:14 +0000</pubDate>
+      <pubDate>Fri, 22 Nov 2019 20:11:14 +0000</pubDate>
       <guid>https://danielfurelos.com/authors/anders-jonsson/</guid>
       <description></description>
     </item>
@@ -23,8 +31,24 @@
     <item>
       <title>Daniel Furelos-Blanco</title>
       <link>https://danielfurelos.com/authors/daniel-furelos-blanco/</link>
-      <pubDate>Mon, 28 Jan 2019 20:11:14 +0000</pubDate>
+      <pubDate>Fri, 22 Nov 2019 20:11:14 +0000</pubDate>
       <guid>https://danielfurelos.com/authors/daniel-furelos-blanco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Krysia Broda</title>
+      <link>https://danielfurelos.com/authors/krysia-broda/</link>
+      <pubDate>Fri, 22 Nov 2019 20:11:14 +0000</pubDate>
+      <guid>https://danielfurelos.com/authors/krysia-broda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark Law</title>
+      <link>https://danielfurelos.com/authors/mark-law/</link>
+      <pubDate>Fri, 22 Nov 2019 20:11:14 +0000</pubDate>
+      <guid>https://danielfurelos.com/authors/mark-law/</guid>
       <description></description>
     </item>
     
