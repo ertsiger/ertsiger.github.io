@@ -497,17 +497,51 @@
     
     
 
-    <p>I am second-year PhD student in Computer Science advised by <a href="http://wp.doc.ic.ac.uk/arusso/" target="_blank">Prof. Alessandra Russo</a> and <a href="http://wp.doc.ic.ac.uk/kb/" target="_blank">Dr. Krysia Broda</a> at <a href="http://www.imperial.ac.uk/" target="_blank">Imperial College London</a>. <!--My research interests are in reinforcement learning algorithms. More specifically, I focus on methods for learning abstractions of reinforcement learning problems with the purpose of facilitating transfer learning and problem understandability.--></p>
+    <p>I am second-year PhD student in Computer Science advised by <a href="http://wp.doc.ic.ac.uk/arusso/" target="_blank">Prof. Alessandra Russo</a> and <a href="http://wp.doc.ic.ac.uk/kb/" target="_blank">Dr. Krysia Broda</a> at <a href="http://www.imperial.ac.uk/" target="_blank">Imperial College London</a>. Previously, I worked as research assistant at <a href="https://www.upf.edu/web/ai-ml/" target="_blank">Universitat Pompeu Fabra</a> under the supervision of <a href="https://www.dtic.upf.edu/~jonsson/" target="_blank">Dr. Anders Jonsson</a>. The focus of my research was on planning formalisms involving concurrent actions, mainly multiagent planning and temporal planning.</p>
 
-<p>Previously, I worked as research assistant at <a href="https://www.upf.edu/web/ai-ml/" target="_blank">Universitat Pompeu Fabra</a> under the supervision of <a href="https://www.dtic.upf.edu/~jonsson/" target="_blank">Dr. Anders Jonsson</a>. The focus of my research was on planning formalisms involving concurrent actions, mainly multiagent planning and temporal planning.</p>
-
-<p>I hold a MSc in Intelligent Interactive Systems and a BSc in Computer Engineering from Universitat Pompeu Fabra in Barcelona.</p>
+<!--I hold a MSc in Intelligent Interactive Systems and a BSc in Computer Engineering from Universitat Pompeu Fabra in Barcelona.-->
 
 
     <div class="row">
 
       
+      <div class="col-md-5">
+        <h3>Interests</h3>
+        <ul class="ul-interests">
+          
+          <li>Reinforcement Learning</li>
+          
+          <li>Knowledge Representation</li>
+          
+          <li>Automated Planning</li>
+          
+        </ul>
+      </div>
+      
 
+      
+      <div class="col-md-7">
+        <h3>Education</h3>
+        <ul class="ul-edu fa-ul">
+          
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">MSc in Intelligent Interactive Systems, 2017</p>
+              <p class="institution">Universitat Pompeu Fabra</p>
+            </div>
+          </li>
+          
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">BSc in Computer Engineering, 2015</p>
+              <p class="institution">Universitat Pompeu Fabra</p>
+            </div>
+          </li>
+          
+        </ul>
+      </div>
       
 
     </div>
@@ -593,16 +627,18 @@
 
 <div class="row">
   <div class="col-12 col-lg-4 section-heading">
-    <h1>Publications</h1>
+    <h1>Recent Publications</h1>
     
   </div>
   <div class="col-12 col-lg-8">
 
-    <div class="alert alert-note">
+    <!--
+<div class="alert alert-note">
   <div>
     Quickly discover relevant content by <a href="https://danielfurelos.com/publication/" target="_blank">filtering publications</a>.
   </div>
 </div>
+-->
 
 
     
@@ -613,10 +649,6 @@
 
 
 
-
-
-
-  
   
 
 
@@ -626,43 +658,94 @@
   
 
 
-<div class="media stream-item">
-  <div class="media-body">
+<div class="card-simple">
 
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/publication/aaai20/" >Induction of Subgoal Automata for Reinforcement Learning</a>
-    </h3>
-
-    
-    <div class="article-style">
-      In this work we present ISA, a novel approach for learning and exploiting subgoals in reinforcement learning (RL). Our method relies on …
-    </div>
+  
     
 
-    <div class="stream-meta article-metadata">
 
-      
 
-      
-      <div>
-        
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
 
 
 
   
   <span><a href="/authors/daniel-furelos-blanco/">Daniel Furelos-Blanco</a></span>, <span><a href="/authors/mark-law/">Mark Law</a></span>, <span><a href="/authors/alessandra-russo/">Alessandra Russo</a></span>, <span><a href="/authors/krysia-broda/">Krysia Broda</a></span>, <span><a href="/authors/anders-jonsson/">Anders Jonsson</a></span>
 
-      </div>
-      
-    </div>
+  </div>
+  
+  
 
+  
+  <span class="article-date">
     
-    <div class="btn-links">
+    
       
+    
+    November 2019
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI-20)
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <h3 class="article-title mb-1 mt-3">
+    <a href="/publication/furelos-blanco-2020/">Induction of Subgoal Automata for Reinforcement Learning</a>
+  </h3>
+
+  
+  <div class="article-style">
+    <p>In this work we present ISA, a novel approach for learning and exploiting subgoals in reinforcement learning (RL). Our method relies on inducing an automaton whose transitions are subgoals expressed as propositional formulas over a set of observable events. A state-of-the-art inductive logic programming system is used to learn the automaton from observation traces perceived by the RL agent. The reinforcement learning and automaton learning processes are interleaved: a new refined automaton is learned whenever the RL agent generates a trace not recognized by the current automaton. We evaluate ISA in several gridworld problems and show that it performs similarly to a method for which automata are given in advance. We also show that the learned automata can be exploited to speed up convergence through reward shaping and transfer learning across multiple tasks. Finally, we analyze the running time and the number of traces that ISA needs to learn an automata, and the impact that the number of observable events has on the learner&rsquo;s performance.</p>
+  </div>
+  
+
+  
+  <div class="btn-links">
+    
 
 
 
 
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/1911.13152" target="_blank" rel="noopener">
+  Preprint
+</a>
 
 
 
@@ -687,14 +770,9 @@
 
 
 
-    </div>
-    
+  </div>
+  
 
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
 </div>
 
       
@@ -706,10 +784,6 @@
 
 
 
-
-
-
-  
   
 
 
@@ -719,39 +793,82 @@
   
 
 
-<div class="media stream-item">
-  <div class="media-body">
+<div class="card-simple">
 
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/publication/aaai19/" >Solving Multiagent Planning Problems with Concurrent Conditional Effects</a>
-    </h3>
-
-    
-    <div class="article-style">
-      In this work we present a novel approach to solving concurrent multiagent planning problems in which several agents act in parallel. …
-    </div>
+  
     
 
-    <div class="stream-meta article-metadata">
 
-      
 
-      
-      <div>
-        
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
 
 
 
   
   <span><a href="/authors/daniel-furelos-blanco/">Daniel Furelos-Blanco</a></span>, <span><a href="/authors/anders-jonsson/">Anders Jonsson</a></span>
 
-      </div>
-      
-    </div>
+  </div>
+  
+  
 
+  
+  <span class="article-date">
     
-    <div class="btn-links">
+    
       
+    
+    January 2019
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI-19)
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <h3 class="article-title mb-1 mt-3">
+    <a href="/publication/furelos-blanco-2019/">Solving Multiagent Planning Problems with Concurrent Conditional Effects</a>
+  </h3>
+
+  
+  <div class="article-style">
+    <p>In this work we present a novel approach to solving concurrent multiagent planning problems in which several agents act in parallel. Our approach relies on a compilation from concurrent multiagent planning to classical planning, allowing us to use an off-the-shelf classical planner to solve the original multiagent problem. The solution can be directly interpreted as a concurrent plan that satisfies a given set of concurrency constraints, while avoiding the exponential blowup associated with  concurrent  actions.  Our  planner  is  the  first  to  handle action effects that are conditional on what other agents are doing. Theoretically, we show that the compilation is sound and complete. Empirically, we show that our compilation can solve challenging multiagent planning problems that require concurrent actions.</p>
+  </div>
+  
+
+  
+  <div class="btn-links">
+    
 
 
 
@@ -818,367 +935,9 @@
 
 
 
-    </div>
-    
-
   </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-
-
-
-  
   
 
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/publication/aamas18-demo/" >CARPooL: Collective Adaptation using concuRrent PLanning</a>
-    </h3>
-
-    
-    <div class="article-style">
-      In this paper we present the CARPooL demonstrator, an implementation of a Collective Adaptation Engine (CAE) that addresses the …
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-
-
-  
-  <span><a href="/authors/daniel-furelos-blanco/">Daniel Furelos-Blanco</a></span>, <span><a href="/authors/antonio-bucchiarone/">Antonio Bucchiarone</a></span>, <span><a href="/authors/anders-jonsson/">Anders Jonsson</a></span>
-
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://ifaamas.org/Proceedings/aamas2018/pdfs/p1815.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/aig-upf/smart-carpooling-demo" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://youtu.be/omWu3FpZNsI" target="_blank" rel="noopener">
-  Video
-</a>
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/publication/aamas18/" >Collective Adaptation through Concurrent Planning: the Case of Sustainable Urban Mobility</a>
-    </h3>
-
-    
-    <div class="article-style">
-      In this paper we address the challenges that impede collective adaptation in smart mobility systems by proposing a notion of ensembles. …
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-
-
-  
-  <span><a href="/authors/antonio-bucchiarone/">Antonio Bucchiarone</a></span>, <span><a href="/authors/daniel-furelos-blanco/">Daniel Furelos-Blanco</a></span>, <span><a href="/authors/anders-jonsson/">Anders Jonsson</a></span>, <span><a href="/authors/fahmida-khandokar/">Fahmida Khandokar</a></span>, <span><a href="/authors/monjur-mourshed/">Monjur Mourshed</a></span>
-
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://ifaamas.org/Proceedings/aamas2018/pdfs/p1880.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/aig-upf/smart-carpooling-demo" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/aamas18/poster.pdf" target="_blank" rel="noopener">
-  Poster
-</a>
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/publication/coplas18/" >Forward-Search Temporal Planning with Simultaneous Events</a>
-    </h3>
-
-    
-    <div class="article-style">
-      In this paper we describe STP, a novel algorithm for temporal planning. Similar to several existing temporal planners, STP relies on a …
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-
-
-  
-  <span><a href="/authors/daniel-furelos-blanco/">Daniel Furelos-Blanco</a></span>, <span><a href="/authors/anders-jonsson/">Anders Jonsson</a></span>, <span><a href="/authors/hector-palacios/">Héctor Palacios</a></span>, <span><a href="/authors/sergio-jimenez/">Sergio Jiménez</a></span>
-
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://hdl.handle.net/10230/35101" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/aig-upf/temporal-planning" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/coplas18/poster.pdf" target="_blank" rel="noopener">
-  Poster
-</a>
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/coplas18/slides.pdf" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
 </div>
 
       
@@ -1458,72 +1217,6 @@
 </div>
 
       
-    
-
-    
-
-  </div>
-</div>
-
-    </div>
-  </section>
-
-  
-  
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-  
-  
-
-  
-  
-
-  <section id="tags" class="home-section wg-tag-cloud   "  >
-    <div class="container">
-      
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-<div class="row">
-  <div class="col-12 col-lg-4 section-heading">
-    <h1>Popular Topics</h1>
-    
-  </div>
-  <div class="col-12 col-lg-8">
     
 
     
