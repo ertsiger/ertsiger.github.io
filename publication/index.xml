@@ -5,7 +5,7 @@
     <link>https://danielfurelos.com/publication/</link>
       <atom:link href="https://danielfurelos.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 Feb 2020 20:11:14 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 12 Mar 2021 20:11:14 +0000</lastBuildDate>
     <image>
       <url>https://danielfurelos.com/img/icon-192.png</url>
       <title>Publications</title>
@@ -13,66 +13,74 @@
     </image>
     
     <item>
+      <title>Induction and Exploitation of Subgoal Automata for Reinforcement Learning</title>
+      <link>https://danielfurelos.com/publication/furelosblancoljbr21/</link>
+      <pubDate>Fri, 12 Mar 2021 20:11:14 +0000</pubDate>
+      <guid>https://danielfurelos.com/publication/furelosblancoljbr21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Induction of Subgoal Automata for Reinforcement Learning</title>
-      <link>https://danielfurelos.com/publication/furelos-blanco-2020/</link>
+      <link>https://danielfurelos.com/publication/furelosblancolrbj20/</link>
       <pubDate>Tue, 11 Feb 2020 20:11:14 +0000</pubDate>
-      <guid>https://danielfurelos.com/publication/furelos-blanco-2020/</guid>
+      <guid>https://danielfurelos.com/publication/furelosblancolrbj20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solving Multiagent Planning Problems with Concurrent Conditional Effects</title>
-      <link>https://danielfurelos.com/publication/furelos-blanco-2019/</link>
+      <link>https://danielfurelos.com/publication/furelosblancoj19/</link>
       <pubDate>Mon, 28 Jan 2019 20:11:14 +0000</pubDate>
-      <guid>https://danielfurelos.com/publication/furelos-blanco-2019/</guid>
+      <guid>https://danielfurelos.com/publication/furelosblancoj19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CARPooL: Collective Adaptation using concuRrent PLanning</title>
-      <link>https://danielfurelos.com/publication/furelos-blanco-2018a/</link>
+      <link>https://danielfurelos.com/publication/furelosblancobj18/</link>
       <pubDate>Sat, 14 Jul 2018 20:11:14 +0000</pubDate>
-      <guid>https://danielfurelos.com/publication/furelos-blanco-2018a/</guid>
+      <guid>https://danielfurelos.com/publication/furelosblancobj18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Collective Adaptation through Concurrent Planning: the Case of Sustainable Urban Mobility</title>
-      <link>https://danielfurelos.com/publication/bucchiarone-2018/</link>
+      <link>https://danielfurelos.com/publication/bucchiaronefjkm18/</link>
       <pubDate>Sat, 14 Jul 2018 20:11:14 +0000</pubDate>
-      <guid>https://danielfurelos.com/publication/bucchiarone-2018/</guid>
+      <guid>https://danielfurelos.com/publication/bucchiaronefjkm18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Forward-Search Temporal Planning with Simultaneous Events</title>
-      <link>https://danielfurelos.com/publication/furelos-blanco-2018b/</link>
+      <link>https://danielfurelos.com/publication/furelosblancojpj18/</link>
       <pubDate>Sat, 30 Jun 2018 20:11:14 +0000</pubDate>
-      <guid>https://danielfurelos.com/publication/furelos-blanco-2018b/</guid>
+      <guid>https://danielfurelos.com/publication/furelosblancojpj18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solving Concurrent Multiagent Planning using Classical Planning</title>
-      <link>https://danielfurelos.com/publication/furelos-blanco-2018c/</link>
+      <link>https://danielfurelos.com/publication/furelosblancoj18/</link>
       <pubDate>Sat, 30 Jun 2018 20:11:14 +0000</pubDate>
-      <guid>https://danielfurelos.com/publication/furelos-blanco-2018c/</guid>
+      <guid>https://danielfurelos.com/publication/furelosblancoj18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resolution of Concurrent Planning Problems using Classical Planning</title>
-      <link>https://danielfurelos.com/publication/furelos-blanco-2017/</link>
+      <link>https://danielfurelos.com/publication/furelosblanco17/</link>
       <pubDate>Thu, 07 Sep 2017 20:11:14 +0000</pubDate>
-      <guid>https://danielfurelos.com/publication/furelos-blanco-2017/</guid>
+      <guid>https://danielfurelos.com/publication/furelosblanco17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning and Generalization in Atari Games</title>
-      <link>https://danielfurelos.com/publication/furelos-blanco-2015/</link>
+      <link>https://danielfurelos.com/publication/furelosblanco15/</link>
       <pubDate>Tue, 07 Jul 2015 20:11:14 +0000</pubDate>
-      <guid>https://danielfurelos.com/publication/furelos-blanco-2015/</guid>
+      <guid>https://danielfurelos.com/publication/furelosblanco15/</guid>
       <description></description>
     </item>
     

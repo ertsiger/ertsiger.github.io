@@ -5,111 +5,12 @@
     <link>https://danielfurelos.com/authors/</link>
       <atom:link href="https://danielfurelos.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 Feb 2020 20:11:14 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 12 Mar 2021 20:11:14 +0000</lastBuildDate>
     <image>
       <url>https://danielfurelos.com/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://danielfurelos.com/authors/</link>
     </image>
-    
-    <item>
-      <title>Alessandra Russo</title>
-      <link>https://danielfurelos.com/authors/alessandra-russo/</link>
-      <pubDate>Tue, 11 Feb 2020 20:11:14 +0000</pubDate>
-      <guid>https://danielfurelos.com/authors/alessandra-russo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anders Jonsson</title>
-      <link>https://danielfurelos.com/authors/anders-jonsson/</link>
-      <pubDate>Tue, 11 Feb 2020 20:11:14 +0000</pubDate>
-      <guid>https://danielfurelos.com/authors/anders-jonsson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Daniel Furelos-Blanco</title>
-      <link>https://danielfurelos.com/authors/daniel-furelos-blanco/</link>
-      <pubDate>Tue, 11 Feb 2020 20:11:14 +0000</pubDate>
-      <guid>https://danielfurelos.com/authors/daniel-furelos-blanco/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Krysia Broda</title>
-      <link>https://danielfurelos.com/authors/krysia-broda/</link>
-      <pubDate>Tue, 11 Feb 2020 20:11:14 +0000</pubDate>
-      <guid>https://danielfurelos.com/authors/krysia-broda/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mark Law</title>
-      <link>https://danielfurelos.com/authors/mark-law/</link>
-      <pubDate>Tue, 11 Feb 2020 20:11:14 +0000</pubDate>
-      <guid>https://danielfurelos.com/authors/mark-law/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Antonio Bucchiarone</title>
-      <link>https://danielfurelos.com/authors/antonio-bucchiarone/</link>
-      <pubDate>Sat, 14 Jul 2018 20:11:14 +0000</pubDate>
-      <guid>https://danielfurelos.com/authors/antonio-bucchiarone/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fahmida Khandokar</title>
-      <link>https://danielfurelos.com/authors/fahmida-khandokar/</link>
-      <pubDate>Sat, 14 Jul 2018 20:11:14 +0000</pubDate>
-      <guid>https://danielfurelos.com/authors/fahmida-khandokar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Monjur Mourshed</title>
-      <link>https://danielfurelos.com/authors/monjur-mourshed/</link>
-      <pubDate>Sat, 14 Jul 2018 20:11:14 +0000</pubDate>
-      <guid>https://danielfurelos.com/authors/monjur-mourshed/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Héctor Palacios</title>
-      <link>https://danielfurelos.com/authors/hector-palacios/</link>
-      <pubDate>Sat, 30 Jun 2018 20:11:14 +0000</pubDate>
-      <guid>https://danielfurelos.com/authors/hector-palacios/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sergio Jiménez</title>
-      <link>https://danielfurelos.com/authors/sergio-jimenez/</link>
-      <pubDate>Sat, 30 Jun 2018 20:11:14 +0000</pubDate>
-      <guid>https://danielfurelos.com/authors/sergio-jimenez/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>supervised by Anders Jonsson</title>
-      <link>https://danielfurelos.com/authors/supervised-by-anders-jonsson/</link>
-      <pubDate>Thu, 07 Sep 2017 20:11:14 +0000</pubDate>
-      <guid>https://danielfurelos.com/authors/supervised-by-anders-jonsson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://danielfurelos.com/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielfurelos.com/authors/admin/</guid>
-      <description>&lt;p&gt;I am second-year PhD student in Computer Science advised by &lt;a href=&#34;http://wp.doc.ic.ac.uk/arusso/&#34; target=&#34;_blank&#34;&gt;Prof. Alessandra Russo&lt;/a&gt; and &lt;a href=&#34;http://wp.doc.ic.ac.uk/kb/&#34; target=&#34;_blank&#34;&gt;Dr. Krysia Broda&lt;/a&gt; at &lt;a href=&#34;http://www.imperial.ac.uk/&#34; target=&#34;_blank&#34;&gt;Imperial College London&lt;/a&gt;. Previously, I worked as research assistant at &lt;a href=&#34;https://www.upf.edu/web/ai-ml/&#34; target=&#34;_blank&#34;&gt;Universitat Pompeu Fabra&lt;/a&gt; under the supervision of &lt;a href=&#34;https://www.dtic.upf.edu/~jonsson/&#34; target=&#34;_blank&#34;&gt;Dr. Anders Jonsson&lt;/a&gt;. The focus of my research was on planning formalisms involving concurrent actions, mainly multiagent planning and temporal planning.&lt;/p&gt;
-
-&lt;!--I hold a MSc in Intelligent Interactive Systems and a BSc in Computer Engineering from Universitat Pompeu Fabra in Barcelona.--&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

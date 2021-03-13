@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Hi everyone! After some months (and even years) thinking about starting my own webpage, I have finally done it. The main reason for which I did not do it before was that I thought I could not explain anything interesting&hellip; and maybe I cannot! However, I wanted to have a place where I could explain experiences, as well as things I have learnt, things I am learning, and things I will (hopefully) learn.">
+  <meta name="description" content="In this paper we describe STP, a novel algorithm for temporal planning. Similar to several existing temporal planners, STP relies on a transformation from temporal planning to classical planning, and constructs a temporal plan by finding a sequence of classical actions that solve the problem while satisfying a given set of temporal constraints. Our main contribution is that STP can solve temporal planning problems that require simultaneous events, i.e. the temporal actions have to be scheduled in such a way that two or more of their effects take place concurrently. To do so, STP separates each event into three phases: one phase in which temporal actions are scheduled to end, one phase in which simultaneous effects take place, and one phase in which temporal actions are scheduled to start. Experimental results show that STP significantly outperforms state-of-the-art temporal planners in a domain requiring simultaneous events.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://danielfurelos.com/post/2016-01-03-welcome-to-my-blog/">
+  <link rel="alternate" hreflang="en-us" href="https://danielfurelos.com/publication/furelosblancojpj18/">
 
   
 
@@ -101,7 +101,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://danielfurelos.com/post/2016-01-03-welcome-to-my-blog/">
+  <link rel="canonical" href="https://danielfurelos.com/publication/furelosblancojpj18/">
 
   
   
@@ -114,15 +114,15 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Daniel Furelos-Blanco">
-  <meta property="og:url" content="https://danielfurelos.com/post/2016-01-03-welcome-to-my-blog/">
-  <meta property="og:title" content="Welcome to my blog! | Daniel Furelos-Blanco">
-  <meta property="og:description" content="Hi everyone! After some months (and even years) thinking about starting my own webpage, I have finally done it. The main reason for which I did not do it before was that I thought I could not explain anything interesting&hellip; and maybe I cannot! However, I wanted to have a place where I could explain experiences, as well as things I have learnt, things I am learning, and things I will (hopefully) learn."><meta property="og:image" content="https://danielfurelos.com/img/icon-192.png">
+  <meta property="og:url" content="https://danielfurelos.com/publication/furelosblancojpj18/">
+  <meta property="og:title" content="Forward-Search Temporal Planning with Simultaneous Events | Daniel Furelos-Blanco">
+  <meta property="og:description" content="In this paper we describe STP, a novel algorithm for temporal planning. Similar to several existing temporal planners, STP relies on a transformation from temporal planning to classical planning, and constructs a temporal plan by finding a sequence of classical actions that solve the problem while satisfying a given set of temporal constraints. Our main contribution is that STP can solve temporal planning problems that require simultaneous events, i.e. the temporal actions have to be scheduled in such a way that two or more of their effects take place concurrently. To do so, STP separates each event into three phases: one phase in which temporal actions are scheduled to end, one phase in which simultaneous effects take place, and one phase in which temporal actions are scheduled to start. Experimental results show that STP significantly outperforms state-of-the-art temporal planners in a domain requiring simultaneous events."><meta property="og:image" content="https://danielfurelos.com/img/icon-192.png">
   <meta property="twitter:image" content="https://danielfurelos.com/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2016-01-03T00:00:00&#43;01:00">
+      <meta property="article:published_time" content="2018-06-30T20:11:14&#43;00:00">
     
-    <meta property="article:modified_time" content="2016-01-03T00:00:00&#43;01:00">
+    <meta property="article:modified_time" content="2018-06-30T20:11:14&#43;00:00">
   
 
   
@@ -134,8 +134,6 @@
 
 
 
-
-  
 
 
 
@@ -145,15 +143,15 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "BlogPosting",
+  "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://danielfurelos.com/post/2016-01-03-welcome-to-my-blog/"
+    "@id": "https://danielfurelos.com/publication/furelosblancojpj18/"
   },
-  "headline": "Welcome to my blog!",
+  "headline": "Forward-Search Temporal Planning with Simultaneous Events",
   
-  "datePublished": "2016-01-03T00:00:00+01:00",
-  "dateModified": "2016-01-03T00:00:00+01:00",
+  "datePublished": "2018-06-30T20:11:14Z",
+  "dateModified": "2018-06-30T20:11:14Z",
   
   "author": {
     "@type": "Person",
@@ -168,7 +166,7 @@
       "url": "https://danielfurelos.com/img/icon-512.png"
     }
   },
-  "description": "Hi everyone! After some months (and even years) thinking about starting my own webpage, I have finally done it. The main reason for which I did not do it before was that I thought I could not explain anything interesting\u0026hellip; and maybe I cannot! However, I wanted to have a place where I could explain experiences, as well as things I have learnt, things I am learning, and things I will (hopefully) learn."
+  "description": "In this paper we describe STP, a novel algorithm for temporal planning. Similar to several existing temporal planners, STP relies on a transformation from temporal planning to classical planning, and constructs a temporal plan by finding a sequence of classical actions that solve the problem while satisfying a given set of temporal constraints. Our main contribution is that STP can solve temporal planning problems that require simultaneous events, i.e. the temporal actions have to be scheduled in such a way that two or more of their effects take place concurrently. To do so, STP separates each event into three phases: one phase in which temporal actions are scheduled to end, one phase in which simultaneous effects take place, and one phase in which temporal actions are scheduled to start. Experimental results show that STP significantly outperforms state-of-the-art temporal planners in a domain requiring simultaneous events."
 }
 </script>
 
@@ -186,7 +184,7 @@
 
 
 
-  <title>Welcome to my blog! | Daniel Furelos-Blanco</title>
+  <title>Forward-Search Temporal Planning with Simultaneous Events | Daniel Furelos-Blanco</title>
 
 </head>
 
@@ -290,7 +288,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/publication"><span>Publications</span></a>
+          <a class="nav-link  active" href="/publication"><span>Publications</span></a>
         </li>
 
         
@@ -310,7 +308,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link  active" href="/post"><span>Blog</span></a>
+          <a class="nav-link " href="/post"><span>Blog</span></a>
         </li>
 
         
@@ -344,7 +342,7 @@
 </nav>
 
 
-  <article class="article">
+  <div class="pub">
 
   
 
@@ -365,7 +363,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Welcome to my blog!</h1>
+  <h1>Forward-Search Temporal Planning with Simultaneous Events</h1>
 
   
 
@@ -378,6 +376,19 @@
 
   
   
+  
+  
+  <div>
+    
+
+
+
+  
+  <span><a href="/authors/daniel-furelos-blanco/">Daniel Furelos-Blanco</a></span>, <span><a href="/authors/anders-jonsson/">Anders Jonsson</a></span>, <span><a href="/authors/hector-palacios/">Héctor Palacios</a></span>, <span><a href="/authors/sergio-jimenez/">Sergio Jiménez</a></span>
+
+  </div>
+  
+  
 
   
   <span class="article-date">
@@ -385,17 +396,12 @@
     
       
     
-    Jan 3, 2016
+    June 2018
   </span>
   
 
   
 
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    2 min read
-  </span>
   
 
   
@@ -418,7 +424,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://danielfurelos.com/post/2016-01-03-welcome-to-my-blog/&amp;text=Welcome%20to%20my%20blog!" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://danielfurelos.com/publication/furelosblancojpj18/&amp;text=Forward-Search%20Temporal%20Planning%20with%20Simultaneous%20Events" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -431,7 +437,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://danielfurelos.com/post/2016-01-03-welcome-to-my-blog/&amp;t=Welcome%20to%20my%20blog!" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://danielfurelos.com/publication/furelosblancojpj18/&amp;t=Forward-Search%20Temporal%20Planning%20with%20Simultaneous%20Events" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -444,7 +450,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Welcome%20to%20my%20blog!&amp;body=https://danielfurelos.com/post/2016-01-03-welcome-to-my-blog/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Forward-Search%20Temporal%20Planning%20with%20Simultaneous%20Events&amp;body=https://danielfurelos.com/publication/furelosblancojpj18/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -457,7 +463,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://danielfurelos.com/post/2016-01-03-welcome-to-my-blog/&amp;title=Welcome%20to%20my%20blog!" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://danielfurelos.com/publication/furelosblancojpj18/&amp;title=Forward-Search%20Temporal%20Planning%20with%20Simultaneous%20Events" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -470,7 +476,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Welcome%20to%20my%20blog!%20https://danielfurelos.com/post/2016-01-03-welcome-to-my-blog/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Forward-Search%20Temporal%20Planning%20with%20Simultaneous%20Events%20https://danielfurelos.com/publication/furelosblancojpj18/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -483,7 +489,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://danielfurelos.com/post/2016-01-03-welcome-to-my-blog/&amp;title=Welcome%20to%20my%20blog!" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://danielfurelos.com/publication/furelosblancojpj18/&amp;title=Forward-Search%20Temporal%20Planning%20with%20Simultaneous%20Events" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -508,7 +514,77 @@
 
 
 
+  
 
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="http://hdl.handle.net/10230/35101" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/furelosblancojpj18/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/aig-upf/temporal-planning" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="/publication/furelosblancojpj18/poster.pdf" target="_blank" rel="noopener">
+  Poster
+</a>
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="/publication/furelosblancojpj18/slides.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+</div>
 
 
   
@@ -518,40 +594,54 @@
 
   <div class="article-container">
 
-    <div class="article-style">
-      <p>Hi everyone! After some months (and even years) thinking about starting my own
-webpage, I have finally done it. The main reason for which I did not do it
-before was that I thought I could not explain anything interesting&hellip; and maybe
-I cannot! However, I wanted to have a place where I could explain experiences,
-as well as things I have learnt, things I am learning, and things I will
-(hopefully) learn.</p>
-<p>Last year, in July 2015, I graduated in Computer Science from Pompeu Fabra
-University (Barcelona). So basically here I will talk about topics related
-to Computer Science. However, I have many hobbies about which I do not know
-whether I will post about them or not (probably, I could talk about them
-from a <em>computational</em> perspective). At this
-moment, I am planning to post projects that I did during my bachelor&rsquo;s degree
-years, as well as some pre-degree experiments that I consider interesting to
-talk about (e.g. how I started programming software).</p>
-<p>Unfortunately, I started to use GitHub and Bitbucket short time ago, so many
-code I have written during these last years is not there. Nevertheless, I
-think I will upload some content there although I will not do any more
-commits&hellip; probably it could be eventually useful for somebody.</p>
-<p>I will try to post as usually as possible (1 or 2 post per week). But I have
-to say that I do not guarantee that this will happen.</p>
-<p>Anyway, welcome to my blog! I hope that you will enjoy it!</p>
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">In this paper we describe STP, a novel algorithm for temporal planning. Similar to several existing temporal planners, STP relies on a transformation from temporal planning to classical planning, and constructs a temporal plan by finding a sequence of classical actions that solve the problem while satisfying a given set of temporal constraints. Our main contribution is that STP can solve temporal planning problems that require simultaneous events, i.e. the temporal actions have to be scheduled in such a way that two or more of their effects take place concurrently. To do so, STP separates each event into three phases: one phase in which temporal actions are scheduled to end, one phase in which simultaneous effects take place, and one phase in which temporal actions are scheduled to start. Experimental results show that STP significantly outperforms state-of-the-art temporal planners in a domain requiring simultaneous events.</p>
+    
 
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
     </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">Proceedings of the 13th Workshop on Constraint Satisfaction Techniques for Planning and Scheduling (COPLAS) at the 28th International Conference on Automated Planning and Scheduling (ICAPS-18)</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
 
     
 
 
     
-
-
-
-    
-      
 
 
 
@@ -561,95 +651,28 @@ to say that I do not guarantee that this will happen.</p>
 
 
   
-
-
-
-
-
-
-  
-  
   
     
+  
+  
+
+
+
+
+
+
+  
+  
   
   
   <div class="media author-card">
     
-      
-      <img class="portrait mr-3" src="/authors/admin/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_250x250_fill_q90_lanczos_center.jpg" alt="Avatar">
-    
 
     <div class="media-body">
-      <h5 class="card-title"><a href="https://danielfurelos.com">Daniel Furelos-Blanco</a></h5>
-      <h6 class="card-subtitle">PhD Student</h6>
+      <h5 class="card-title"><a href="/authors/daniel-furelos-blanco/"></a></h5>
+      
       
       <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://github.com/ertsiger" target="_blank" rel="noopener">
-        <i class="fab fa-github"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://scholar.google.com/citations?user=IfMKjBgAAAAJ" target="_blank" rel="noopener">
-        <i class="ai ai-google-scholar"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://www.linkedin.com/in/danielfurelosblanco/" target="_blank" rel="noopener">
-        <i class="fab fa-linkedin"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://www.youtube.com/channel/UC33co0AJpxnG5Kfrd_o3PQg" target="_blank" rel="noopener">
-        <i class="fab fa-youtube"></i>
-      </a>
-    </li>
   
 </ul>
 
@@ -658,17 +681,14 @@ to say that I do not guarantee that this will happen.</p>
 
 
 
-      
-      
-    
-
-    
 
     
 
 
   </div>
-</article>
+</div>
+
+
 
       
 

@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="In this paper we describe STP, a novel algorithm for temporal planning. Similar to several existing temporal planners, STP relies on a transformation from temporal planning to classical planning, and constructs a temporal plan by finding a sequence of classical actions that solve the problem while satisfying a given set of temporal constraints. Our main contribution is that STP can solve temporal planning problems that require simultaneous events, i.e. the temporal actions have to be scheduled in such a way that two or more of their effects take place concurrently. To do so, STP separates each event into three phases: one phase in which temporal actions are scheduled to end, one phase in which simultaneous effects take place, and one phase in which temporal actions are scheduled to start. Experimental results show that STP significantly outperforms state-of-the-art temporal planners in a domain requiring simultaneous events.">
+  <meta name="description" content="In this work, we present new approaches for solving multiagent planning and temporal planning problems. These planning forms are two types of concurrent planning, where actions occur in parallel. The methods we propose rely on a compilation to classical planning problems that can be solved using an off-the-shelf classical planner. Then, the solutions can be converted back into multiagent or temporal solutions. Our compilation for multiagent planning is able to generate concurrent actions that satisfy a set of concurrency constraints. Furthermore, it avoids the exponential blowup associated with concurrent actions, a problem that many multiagent planners are facing nowadays. Incorporating similar ideas in temporal planning enables us to generate temporal plans with simultaneous events, which most state-of-the-art temporal planners cannot do. In experiments, we compare our approaches to other approaches. We show that the methods using transformations to classical planning are able to get better results than state-of-the-art approaches for complex problems. In contrast, we also highlight some of the drawbacks that this kind of methods have for both multiagent and temporal planning. We also illustrate how these methods can be applied to real world domains like the smart mobility domain. In this domain, a group of vehicles and passengers must self-adapt in order to reach their target positions. The adaptation process consists in running a concurrent planning algorithm. The behavior of the approach is then evaluated.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://danielfurelos.com/publication/furelos-blanco-2018b/">
+  <link rel="alternate" hreflang="en-us" href="https://danielfurelos.com/publication/furelosblanco17/">
 
   
 
@@ -83,7 +83,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.a3cda781a9b24f26fefd34a53547835b.css">
+  <link rel="stylesheet" href="/css/academic.min.55bfd6bc929256057feea87972fb6679.css">
 
   
 
@@ -101,7 +101,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://danielfurelos.com/publication/furelos-blanco-2018b/">
+  <link rel="canonical" href="https://danielfurelos.com/publication/furelosblanco17/">
 
   
   
@@ -114,15 +114,15 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Daniel Furelos-Blanco">
-  <meta property="og:url" content="https://danielfurelos.com/publication/furelos-blanco-2018b/">
-  <meta property="og:title" content="Forward-Search Temporal Planning with Simultaneous Events | Daniel Furelos-Blanco">
-  <meta property="og:description" content="In this paper we describe STP, a novel algorithm for temporal planning. Similar to several existing temporal planners, STP relies on a transformation from temporal planning to classical planning, and constructs a temporal plan by finding a sequence of classical actions that solve the problem while satisfying a given set of temporal constraints. Our main contribution is that STP can solve temporal planning problems that require simultaneous events, i.e. the temporal actions have to be scheduled in such a way that two or more of their effects take place concurrently. To do so, STP separates each event into three phases: one phase in which temporal actions are scheduled to end, one phase in which simultaneous effects take place, and one phase in which temporal actions are scheduled to start. Experimental results show that STP significantly outperforms state-of-the-art temporal planners in a domain requiring simultaneous events."><meta property="og:image" content="https://danielfurelos.com/img/icon-192.png">
+  <meta property="og:url" content="https://danielfurelos.com/publication/furelosblanco17/">
+  <meta property="og:title" content="Resolution of Concurrent Planning Problems using Classical Planning | Daniel Furelos-Blanco">
+  <meta property="og:description" content="In this work, we present new approaches for solving multiagent planning and temporal planning problems. These planning forms are two types of concurrent planning, where actions occur in parallel. The methods we propose rely on a compilation to classical planning problems that can be solved using an off-the-shelf classical planner. Then, the solutions can be converted back into multiagent or temporal solutions. Our compilation for multiagent planning is able to generate concurrent actions that satisfy a set of concurrency constraints. Furthermore, it avoids the exponential blowup associated with concurrent actions, a problem that many multiagent planners are facing nowadays. Incorporating similar ideas in temporal planning enables us to generate temporal plans with simultaneous events, which most state-of-the-art temporal planners cannot do. In experiments, we compare our approaches to other approaches. We show that the methods using transformations to classical planning are able to get better results than state-of-the-art approaches for complex problems. In contrast, we also highlight some of the drawbacks that this kind of methods have for both multiagent and temporal planning. We also illustrate how these methods can be applied to real world domains like the smart mobility domain. In this domain, a group of vehicles and passengers must self-adapt in order to reach their target positions. The adaptation process consists in running a concurrent planning algorithm. The behavior of the approach is then evaluated."><meta property="og:image" content="https://danielfurelos.com/img/icon-192.png">
   <meta property="twitter:image" content="https://danielfurelos.com/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2018-06-30T20:11:14&#43;00:00">
+      <meta property="article:published_time" content="2017-09-07T20:11:14&#43;00:00">
     
-    <meta property="article:modified_time" content="2018-06-30T20:11:14&#43;00:00">
+    <meta property="article:modified_time" content="2017-09-07T20:11:14&#43;00:00">
   
 
   
@@ -146,12 +146,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://danielfurelos.com/publication/furelos-blanco-2018b/"
+    "@id": "https://danielfurelos.com/publication/furelosblanco17/"
   },
-  "headline": "Forward-Search Temporal Planning with Simultaneous Events",
+  "headline": "Resolution of Concurrent Planning Problems using Classical Planning",
   
-  "datePublished": "2018-06-30T20:11:14Z",
-  "dateModified": "2018-06-30T20:11:14Z",
+  "datePublished": "2017-09-07T20:11:14Z",
+  "dateModified": "2017-09-07T20:11:14Z",
   
   "author": {
     "@type": "Person",
@@ -166,7 +166,7 @@
       "url": "https://danielfurelos.com/img/icon-512.png"
     }
   },
-  "description": "In this paper we describe STP, a novel algorithm for temporal planning. Similar to several existing temporal planners, STP relies on a transformation from temporal planning to classical planning, and constructs a temporal plan by finding a sequence of classical actions that solve the problem while satisfying a given set of temporal constraints. Our main contribution is that STP can solve temporal planning problems that require simultaneous events, i.e. the temporal actions have to be scheduled in such a way that two or more of their effects take place concurrently. To do so, STP separates each event into three phases: one phase in which temporal actions are scheduled to end, one phase in which simultaneous effects take place, and one phase in which temporal actions are scheduled to start. Experimental results show that STP significantly outperforms state-of-the-art temporal planners in a domain requiring simultaneous events."
+  "description": "In this work, we present new approaches for solving multiagent planning and temporal planning problems. These planning forms are two types of concurrent planning, where actions occur in parallel. The methods we propose rely on a compilation to classical planning problems that can be solved using an off-the-shelf classical planner. Then, the solutions can be converted back into multiagent or temporal solutions. Our compilation for multiagent planning is able to generate concurrent actions that satisfy a set of concurrency constraints. Furthermore, it avoids the exponential blowup associated with concurrent actions, a problem that many multiagent planners are facing nowadays. Incorporating similar ideas in temporal planning enables us to generate temporal plans with simultaneous events, which most state-of-the-art temporal planners cannot do. In experiments, we compare our approaches to other approaches. We show that the methods using transformations to classical planning are able to get better results than state-of-the-art approaches for complex problems. In contrast, we also highlight some of the drawbacks that this kind of methods have for both multiagent and temporal planning. We also illustrate how these methods can be applied to real world domains like the smart mobility domain. In this domain, a group of vehicles and passengers must self-adapt in order to reach their target positions. The adaptation process consists in running a concurrent planning algorithm. The behavior of the approach is then evaluated."
 }
 </script>
 
@@ -184,7 +184,7 @@
 
 
 
-  <title>Forward-Search Temporal Planning with Simultaneous Events | Daniel Furelos-Blanco</title>
+  <title>Resolution of Concurrent Planning Problems using Classical Planning | Daniel Furelos-Blanco</title>
 
 </head>
 
@@ -286,16 +286,9 @@
         
         
         
-          
-          
-          
-            
-          
-          
-        
 
         <li class="nav-item">
-          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+          <a class="nav-link  active" href="/publication"><span>Publications</span></a>
         </li>
 
         
@@ -306,25 +299,16 @@
         
         
         
-          
-        
 
         
         
         
         
         
-        
-          
-          
-          
-            
-          
-          
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#posts"><span>Blog</span></a>
+          <a class="nav-link " href="/post"><span>Blog</span></a>
         </li>
 
         
@@ -379,7 +363,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Forward-Search Temporal Planning with Simultaneous Events</h1>
+  <h1>Resolution of Concurrent Planning Problems using Classical Planning</h1>
 
   
 
@@ -400,7 +384,7 @@
 
 
   
-  <span><a href="/authors/daniel-furelos-blanco/">Daniel Furelos-Blanco</a></span>, <span><a href="/authors/anders-jonsson/">Anders Jonsson</a></span>, <span><a href="/authors/hector-palacios/">Héctor Palacios</a></span>, <span><a href="/authors/sergio-jimenez/">Sergio Jiménez</a></span>
+  <span><a href="/authors/daniel-furelos-blanco/">Daniel Furelos-Blanco</a></span>, <span><a href="/authors/supervised-by-anders-jonsson/">supervised by Anders Jonsson</a></span>
 
   </div>
   
@@ -412,7 +396,7 @@
     
       
     
-    June 2018
+    September 2017
   </span>
   
 
@@ -440,7 +424,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://danielfurelos.com/publication/furelos-blanco-2018b/&amp;text=Forward-Search%20Temporal%20Planning%20with%20Simultaneous%20Events" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://danielfurelos.com/publication/furelosblanco17/&amp;text=Resolution%20of%20Concurrent%20Planning%20Problems%20using%20Classical%20Planning" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -453,7 +437,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://danielfurelos.com/publication/furelos-blanco-2018b/&amp;t=Forward-Search%20Temporal%20Planning%20with%20Simultaneous%20Events" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://danielfurelos.com/publication/furelosblanco17/&amp;t=Resolution%20of%20Concurrent%20Planning%20Problems%20using%20Classical%20Planning" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -466,7 +450,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Forward-Search%20Temporal%20Planning%20with%20Simultaneous%20Events&amp;body=https://danielfurelos.com/publication/furelos-blanco-2018b/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Resolution%20of%20Concurrent%20Planning%20Problems%20using%20Classical%20Planning&amp;body=https://danielfurelos.com/publication/furelosblanco17/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -479,7 +463,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://danielfurelos.com/publication/furelos-blanco-2018b/&amp;title=Forward-Search%20Temporal%20Planning%20with%20Simultaneous%20Events" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://danielfurelos.com/publication/furelosblanco17/&amp;title=Resolution%20of%20Concurrent%20Planning%20Problems%20using%20Classical%20Planning" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -492,7 +476,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Forward-Search%20Temporal%20Planning%20with%20Simultaneous%20Events%20https://danielfurelos.com/publication/furelos-blanco-2018b/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Resolution%20of%20Concurrent%20Planning%20Problems%20using%20Classical%20Planning%20https://danielfurelos.com/publication/furelosblanco17/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -505,7 +489,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://danielfurelos.com/publication/furelos-blanco-2018b/&amp;title=Forward-Search%20Temporal%20Planning%20with%20Simultaneous%20Events" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://danielfurelos.com/publication/furelosblanco17/&amp;title=Resolution%20of%20Concurrent%20Planning%20Problems%20using%20Classical%20Planning" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -551,48 +535,24 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="http://hdl.handle.net/10230/35101" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="http://hdl.handle.net/10230/33107" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/furelos-blanco-2018b/cite.bib">
+        data-filename="/publication/furelosblanco17/cite.bib">
   Cite
 </button>
 
 
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/aig-upf/temporal-planning" target="_blank" rel="noopener">
-  Code
-</a>
 
 
 
 
 
 
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1" href="/publication/furelos-blanco-2018b/poster.pdf" target="_blank" rel="noopener">
-  Poster
-</a>
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1" href="/publication/furelos-blanco-2018b/slides.pdf" target="_blank" rel="noopener">
-  Slides
-</a>
 
 
 
@@ -612,7 +572,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">In this paper we describe STP, a novel algorithm for temporal planning. Similar to several existing temporal planners, STP relies on a transformation from temporal planning to classical planning, and constructs a temporal plan by finding a sequence of classical actions that solve the problem while satisfying a given set of temporal constraints. Our main contribution is that STP can solve temporal planning problems that require simultaneous events, i.e. the temporal actions have to be scheduled in such a way that two or more of their effects take place concurrently. To do so, STP separates each event into three phases: one phase in which temporal actions are scheduled to end, one phase in which simultaneous effects take place, and one phase in which temporal actions are scheduled to start. Experimental results show that STP significantly outperforms state-of-the-art temporal planners in a domain requiring simultaneous events.</p>
+    <p class="pub-abstract">In this work, we present new approaches for solving multiagent planning and temporal planning problems. These planning forms are two types of concurrent planning, where actions occur in parallel. The methods we propose rely on a compilation to classical planning problems that can be solved using an off-the-shelf classical planner. Then, the solutions can be converted back into multiagent or temporal solutions. Our compilation for multiagent planning is able to generate concurrent actions that satisfy a set of concurrency constraints. Furthermore, it avoids the exponential blowup associated with concurrent actions, a problem that many multiagent planners are facing nowadays. Incorporating similar ideas in temporal planning enables us to generate temporal plans with simultaneous events, which most state-of-the-art temporal planners cannot do. In experiments, we compare our approaches to other approaches. We show that the methods using transformations to classical planning are able to get better results than state-of-the-art approaches for complex problems. In contrast, we also highlight some of the drawbacks that this kind of methods have for both multiagent and temporal planning. We also illustrate how these methods can be applied to real world domains like the smart mobility domain. In this domain, a group of vehicles and passengers must self-adapt in order to reach their target positions. The adaptation process consists in running a concurrent planning algorithm. The behavior of the approach is then evaluated.</p>
     
 
     
@@ -624,8 +584,8 @@
           <div class="col-12 col-md-9">
             
             
-            <a href="/publication/#1">
-              Conference paper
+            <a href="/publication/#4">
+              Report
             </a>
             
           </div>
@@ -642,7 +602,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">Proceedings of the 13th Workshop on Constraint Satisfaction Techniques for Planning and Scheduling (COPLAS) at the 28th International Conference on Automated Planning and Scheduling (ICAPS-18)</div>
+          <div class="col-12 col-md-9">Master&rsquo;s Thesis, Universitat Pompeu Fabra</div>
         </div>
       </div>
       <div class="col-md-1"></div>

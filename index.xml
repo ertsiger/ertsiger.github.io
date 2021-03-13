@@ -5,7 +5,7 @@
     <link>https://danielfurelos.com/</link>
       <atom:link href="https://danielfurelos.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniel Furelos-Blanco</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 Feb 2020 20:11:14 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 12 Mar 2021 20:11:14 +0000</lastBuildDate>
     <image>
       <url>https://danielfurelos.com/img/icon-192.png</url>
       <title>Daniel Furelos-Blanco</title>
@@ -13,82 +13,87 @@
     </image>
     
     <item>
+      <title>Induction and Exploitation of Subgoal Automata for Reinforcement Learning</title>
+      <link>https://danielfurelos.com/publication/furelosblancoljbr21/</link>
+      <pubDate>Fri, 12 Mar 2021 20:11:14 +0000</pubDate>
+      <guid>https://danielfurelos.com/publication/furelosblancoljbr21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Induction of Subgoal Automata for Reinforcement Learning</title>
-      <link>https://danielfurelos.com/publication/furelos-blanco-2020/</link>
+      <link>https://danielfurelos.com/publication/furelosblancolrbj20/</link>
       <pubDate>Tue, 11 Feb 2020 20:11:14 +0000</pubDate>
-      <guid>https://danielfurelos.com/publication/furelos-blanco-2020/</guid>
+      <guid>https://danielfurelos.com/publication/furelosblancolrbj20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solving Multiagent Planning Problems with Concurrent Conditional Effects</title>
-      <link>https://danielfurelos.com/publication/furelos-blanco-2019/</link>
+      <link>https://danielfurelos.com/publication/furelosblancoj19/</link>
       <pubDate>Mon, 28 Jan 2019 20:11:14 +0000</pubDate>
-      <guid>https://danielfurelos.com/publication/furelos-blanco-2019/</guid>
+      <guid>https://danielfurelos.com/publication/furelosblancoj19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CARPooL: Collective Adaptation using concuRrent PLanning</title>
-      <link>https://danielfurelos.com/publication/furelos-blanco-2018a/</link>
+      <link>https://danielfurelos.com/publication/furelosblancobj18/</link>
       <pubDate>Sat, 14 Jul 2018 20:11:14 +0000</pubDate>
-      <guid>https://danielfurelos.com/publication/furelos-blanco-2018a/</guid>
+      <guid>https://danielfurelos.com/publication/furelosblancobj18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Collective Adaptation through Concurrent Planning: the Case of Sustainable Urban Mobility</title>
-      <link>https://danielfurelos.com/publication/bucchiarone-2018/</link>
+      <link>https://danielfurelos.com/publication/bucchiaronefjkm18/</link>
       <pubDate>Sat, 14 Jul 2018 20:11:14 +0000</pubDate>
-      <guid>https://danielfurelos.com/publication/bucchiarone-2018/</guid>
+      <guid>https://danielfurelos.com/publication/bucchiaronefjkm18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Forward-Search Temporal Planning with Simultaneous Events</title>
-      <link>https://danielfurelos.com/publication/furelos-blanco-2018b/</link>
+      <link>https://danielfurelos.com/publication/furelosblancojpj18/</link>
       <pubDate>Sat, 30 Jun 2018 20:11:14 +0000</pubDate>
-      <guid>https://danielfurelos.com/publication/furelos-blanco-2018b/</guid>
+      <guid>https://danielfurelos.com/publication/furelosblancojpj18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solving Concurrent Multiagent Planning using Classical Planning</title>
-      <link>https://danielfurelos.com/publication/furelos-blanco-2018c/</link>
+      <link>https://danielfurelos.com/publication/furelosblancoj18/</link>
       <pubDate>Sat, 30 Jun 2018 20:11:14 +0000</pubDate>
-      <guid>https://danielfurelos.com/publication/furelos-blanco-2018c/</guid>
+      <guid>https://danielfurelos.com/publication/furelosblancoj18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resolution of Concurrent Planning Problems using Classical Planning</title>
-      <link>https://danielfurelos.com/publication/furelos-blanco-2017/</link>
+      <link>https://danielfurelos.com/publication/furelosblanco17/</link>
       <pubDate>Thu, 07 Sep 2017 20:11:14 +0000</pubDate>
-      <guid>https://danielfurelos.com/publication/furelos-blanco-2017/</guid>
+      <guid>https://danielfurelos.com/publication/furelosblanco17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wireless Sensor Networks (WSN) using Arduino and XBee</title>
       <link>https://danielfurelos.com/post/2016-01-10-wsn-using-arduino/</link>
-      <pubDate>Sun, 10 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Jan 2016 00:00:00 +0100</pubDate>
       <guid>https://danielfurelos.com/post/2016-01-10-wsn-using-arduino/</guid>
       <description>&lt;p&gt;I have decided to write my first real post. I&amp;rsquo;m going to briefly write
 about a bunch of projects related to Wireless Sensor Networks (WSN) using
 Arduino boards and XBee modules.&lt;/p&gt;
-
 &lt;p&gt;During my 3rd year in the Computer Science degree (2013 - 2014), I coursed a subject
-called &lt;em&gt;Wireless Sensor Networks (WSN)&lt;/em&gt;. My teammates, &lt;a href=&#34;https://es.linkedin.com/in/sergiobarrachina&#34; target=&#34;_blank&#34;&gt;Sergio Barrachina Muñoz&lt;/a&gt; and
-&lt;a href=&#34;https://es.linkedin.com/in/francesc-wilhelmi-roca-59395888&#34; target=&#34;_blank&#34;&gt;Francesc Wilhelmi Roca&lt;/a&gt;,
+called &lt;em&gt;Wireless Sensor Networks (WSN)&lt;/em&gt;. My teammates, &lt;a href=&#34;https://es.linkedin.com/in/sergiobarrachina&#34;&gt;Sergio Barrachina Muñoz&lt;/a&gt; and
+&lt;a href=&#34;https://es.linkedin.com/in/francesc-wilhelmi-roca-59395888&#34;&gt;Francesc Wilhelmi Roca&lt;/a&gt;,
 and me did some projects during this course.&lt;/p&gt;
-
-&lt;p&gt;During the course, we used an &lt;a href=&#34;https://www.arduino.cc/&#34; target=&#34;_blank&#34;&gt;Arduino&lt;/a&gt; board (which
+&lt;p&gt;During the course, we used an &lt;a href=&#34;https://www.arduino.cc/&#34;&gt;Arduino&lt;/a&gt; board (which
 now outside USA is called Genuino) together with some electronic components
 (e.g. LED lights or servomotors). The usage of these elements varied depending
 on the project we did; nevertheless, for the projects involving wireless
 communication (which was, in the end, the purpose of the course) every team
-used a pair of &lt;a href=&#34;http://www.digi.com/lp/xbee&#34; target=&#34;_blank&#34;&gt;XBee&lt;/a&gt; boards.&lt;/p&gt;
-
+used a pair of &lt;a href=&#34;http://www.digi.com/lp/xbee&#34;&gt;XBee&lt;/a&gt; boards.&lt;/p&gt;
 
 
 
@@ -114,72 +119,72 @@ used a pair of &lt;a href=&#34;http://www.digi.com/lp/xbee&#34; target=&#34;_bla
 
 &lt;/figure&gt;
 
-
 &lt;p&gt;The course followed a pretty different structure from what the students of
 Pompeu Fabra University are used to. In fact, not only the students, but also
 people from outside the university could follow the course. To do so, an online
-course was created at &lt;a href=&#34;https://courses.p2pu.org/en/&#34; target=&#34;_blank&#34;&gt;Peer to Peer University (P2PU)&lt;/a&gt;
- called &lt;em&gt;A Hands-on Experience with Wireless Sensor Networks&lt;/em&gt;. A website was created
-to access the PDF course guide and the P2PU course itself: &lt;a href=&#34;http://handsonwsn.org/&#34; target=&#34;_blank&#34;&gt;handsonwsn.org&lt;/a&gt;.&lt;/p&gt;
-
+course was created at &lt;a href=&#34;https://courses.p2pu.org/en/&#34;&gt;Peer to Peer University (P2PU)&lt;/a&gt;
+called &lt;em&gt;A Hands-on Experience with Wireless Sensor Networks&lt;/em&gt;. A website was created
+to access the PDF course guide and the P2PU course itself: &lt;a href=&#34;http://handsonwsn.org/&#34;&gt;handsonwsn.org&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Each team created a blog in which the members posted their projects (e.g. description,
-wiring diagrams, videos, &amp;hellip;). Our blog (still online) was &lt;a href=&#34;http://getting-into-arduino.blogspot.com.es/&#34; target=&#34;_blank&#34;&gt;Getting Into Arduino&lt;/a&gt;;
+wiring diagrams, videos, &amp;hellip;). Our blog (still online) was &lt;a href=&#34;http://getting-into-arduino.blogspot.com.es/&#34;&gt;Getting Into Arduino&lt;/a&gt;;
 there we posted a quite detailed description of everything we did for the lab
-(including the code which I uploaded some weeks ago to &lt;a href=&#34;https://github.com/ertsiger/wsn-arduino-labs&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;
+(including the code which I uploaded some weeks ago to &lt;a href=&#34;https://github.com/ertsiger/wsn-arduino-labs&#34;&gt;GitHub&lt;/a&gt;
 so as not to loose it). We did not reference WSN in the title name because at that time
 we did not come up with anything better (and now it is too late to do the change).&lt;/p&gt;
-
 &lt;p&gt;Now, I give a brief description of the projects we did and the link to the
 corresponding post in the blog:&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://getting-into-arduino.blogspot.com.es/2014/04/practice-blinking-led.html&#34; target=&#34;_blank&#34;&gt;Traffic Lights:&lt;/a&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://getting-into-arduino.blogspot.com.es/2014/04/practice-blinking-led.html&#34;&gt;Traffic Lights:&lt;/a&gt;
 Implemented a traffic light system. It did not involve wireless communication,
-it was a project to start getting familiarized with Arduino and its electronics.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://getting-into-arduino.blogspot.com.es/2014/04/practice-chatting-with-xbee_10.html&#34; target=&#34;_blank&#34;&gt;Chatting with XBee:&lt;/a&gt;
+it was a project to start getting familiarized with Arduino and its electronics.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://getting-into-arduino.blogspot.com.es/2014/04/practice-chatting-with-xbee_10.html&#34;&gt;Chatting with XBee:&lt;/a&gt;
 An XBee connected to a PC sent messages written by the user to another XBee
-connected to the Arduino. An attached LCD screen displayed the received messages.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://getting-into-arduino.blogspot.com.es/2014/05/practice-melody-selector-using-xbee.html&#34; target=&#34;_blank&#34;&gt;Melody Selector using XBee:&lt;/a&gt;
+connected to the Arduino. An attached LCD screen displayed the received messages.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://getting-into-arduino.blogspot.com.es/2014/05/practice-melody-selector-using-xbee.html&#34;&gt;Melody Selector using XBee:&lt;/a&gt;
 An Arduino + XBee system is used to select a melody number (displayed in an LCD screen).
-The number is sent to another Arduino + XBee system that will play the melody using a buzzer.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://getting-into-arduino.blogspot.com.es/2014/05/practice-sunset-project.html&#34; target=&#34;_blank&#34;&gt;Light Based Alarm:&lt;/a&gt;
-A buzzer sounds when the amount of light received by a photoresistor is not enough.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://getting-into-arduino.blogspot.com.es/2014/05/practice-morse-code-player.html&#34; target=&#34;_blank&#34;&gt;Morse Code Player:&lt;/a&gt;
+The number is sent to another Arduino + XBee system that will play the melody using a buzzer.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://getting-into-arduino.blogspot.com.es/2014/05/practice-sunset-project.html&#34;&gt;Light Based Alarm:&lt;/a&gt;
+A buzzer sounds when the amount of light received by a photoresistor is not enough.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://getting-into-arduino.blogspot.com.es/2014/05/practice-morse-code-player.html&#34;&gt;Morse Code Player:&lt;/a&gt;
 An XBee sends messages to another XBee connected to the Arduino. These messages
-are translated to Morse code and played using a buzzer.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://getting-into-arduino.blogspot.com.es/2014/05/practice-activating-fan-depending-on.html&#34; target=&#34;_blank&#34;&gt;Activating a Fan Depending on the Temperature:&lt;/a&gt;
+are translated to Morse code and played using a buzzer.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://getting-into-arduino.blogspot.com.es/2014/05/practice-activating-fan-depending-on.html&#34;&gt;Activating a Fan Depending on the Temperature:&lt;/a&gt;
 An XBee connected to an Arduino detects the temperature of a room; then, this
 temperature information is sent to another XBee connected to a PC which determines
 if a fan should be activated. If the temperature is too high, then the second XBee
-tells the first one to enable the fan so as to reduce the room&amp;rsquo;s temperature.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://getting-into-arduino.blogspot.com.es/2014/06/practice-measuring-light-pollution-in.html&#34; target=&#34;_blank&#34;&gt;Measuring Light Pollution in Barcelona:&lt;/a&gt;
-Light readings made by a photoresistor are periodically uploaded (as JSON) to Xively.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://getting-into-arduino.blogspot.com.es/2014/06/practice-remotely-controlling-car-with.html&#34; target=&#34;_blank&#34;&gt;Remotely Controlled Car:&lt;/a&gt;
+tells the first one to enable the fan so as to reduce the room&amp;rsquo;s temperature.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://getting-into-arduino.blogspot.com.es/2014/06/practice-measuring-light-pollution-in.html&#34;&gt;Measuring Light Pollution in Barcelona:&lt;/a&gt;
+Light readings made by a photoresistor are periodically uploaded (as JSON) to Xively.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://getting-into-arduino.blogspot.com.es/2014/06/practice-remotely-controlling-car-with.html&#34;&gt;Remotely Controlled Car:&lt;/a&gt;
 A control pad with an Arduino and an XBee sends commands to a battery powered car.
 The car is formed by a pair of motors, and an XBee that receives the commands and
-powers the motors accordingly.&lt;/p&gt;&lt;/li&gt;
+powers the motors accordingly.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;Just as an interesting project that is done internationally, I wanted to comment the following.
-During the course, the class visited the &lt;a href=&#34;http://fablabbcn.org/&#34; target=&#34;_blank&#34;&gt;Fab Lab Barcelona&lt;/a&gt;,
-where we were explained the &lt;a href=&#34;https://smartcitizen.me/&#34; target=&#34;_blank&#34;&gt;Smart Citizen&lt;/a&gt; project. As their website says:
+During the course, the class visited the &lt;a href=&#34;http://fablabbcn.org/&#34;&gt;Fab Lab Barcelona&lt;/a&gt;,
+where we were explained the &lt;a href=&#34;https://smartcitizen.me/&#34;&gt;Smart Citizen&lt;/a&gt; project. As their website says:
 &lt;em&gt;&amp;ldquo;Smart Citizen is a platform to generate participatory processes of people in the cities.
 Connecting data, people and knowledge, the objective of the platform is to serve as a node
- for building productive and open indicators, and distributed tools, and thereafter the
- collective construction of the city for its own inhabitants.&amp;rdquo;&lt;/em&gt;. The following video
- is much more illustrative than the explanation:&lt;/p&gt;
-
-&lt;div class=&#34;text-center embed-responsive embed-responsive-16by9&#34;&gt;
-&lt;iframe class=&#34;embed-responsive-item&#34; src=&#34;https://player.vimeo.com/video/145620646?title=0&amp;byline=0&amp;portrait=0&#34; width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
+for building productive and open indicators, and distributed tools, and thereafter the
+collective construction of the city for its own inhabitants.&amp;quot;&lt;/em&gt;. The following video
+is much more illustrative than the explanation:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;And that&amp;rsquo;s it! By now, it&amp;rsquo;s my first post. Let me know your thoughts in the comments.&lt;/p&gt;
 </description>
     </item>
@@ -187,7 +192,7 @@ Connecting data, people and knowledge, the objective of the platform is to serve
     <item>
       <title>Welcome to my blog!</title>
       <link>https://danielfurelos.com/post/2016-01-03-welcome-to-my-blog/</link>
-      <pubDate>Sun, 03 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 03 Jan 2016 00:00:00 +0100</pubDate>
       <guid>https://danielfurelos.com/post/2016-01-03-welcome-to-my-blog/</guid>
       <description>&lt;p&gt;Hi everyone! After some months (and even years) thinking about starting my own
 webpage, I have finally done it. The main reason for which I did not do it
@@ -195,33 +200,29 @@ before was that I thought I could not explain anything interesting&amp;hellip; a
 I cannot! However, I wanted to have a place where I could explain experiences,
 as well as things I have learnt, things I am learning, and things I will
 (hopefully) learn.&lt;/p&gt;
-
 &lt;p&gt;Last year, in July 2015, I graduated in Computer Science from Pompeu Fabra
 University (Barcelona). So basically here I will talk about topics related
 to Computer Science. However, I have many hobbies about which I do not know
 whether I will post about them or not (probably, I could talk about them
 from a &lt;em&gt;computational&lt;/em&gt; perspective). At this
- moment, I am planning to post projects that I did during my bachelor&amp;rsquo;s degree
- years, as well as some pre-degree experiments that I consider interesting to
+moment, I am planning to post projects that I did during my bachelor&amp;rsquo;s degree
+years, as well as some pre-degree experiments that I consider interesting to
 talk about (e.g. how I started programming software).&lt;/p&gt;
-
 &lt;p&gt;Unfortunately, I started to use GitHub and Bitbucket short time ago, so many
 code I have written during these last years is not there. Nevertheless, I
 think I will upload some content there although I will not do any more
- commits&amp;hellip; probably it could be eventually useful for somebody.&lt;/p&gt;
-
+commits&amp;hellip; probably it could be eventually useful for somebody.&lt;/p&gt;
 &lt;p&gt;I will try to post as usually as possible (1 or 2 post per week). But I have
- to say that I do not guarantee that this will happen.&lt;/p&gt;
-
+to say that I do not guarantee that this will happen.&lt;/p&gt;
 &lt;p&gt;Anyway, welcome to my blog! I hope that you will enjoy it!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Learning and Generalization in Atari Games</title>
-      <link>https://danielfurelos.com/publication/furelos-blanco-2015/</link>
+      <link>https://danielfurelos.com/publication/furelosblanco15/</link>
       <pubDate>Tue, 07 Jul 2015 20:11:14 +0000</pubDate>
-      <guid>https://danielfurelos.com/publication/furelos-blanco-2015/</guid>
+      <guid>https://danielfurelos.com/publication/furelosblanco15/</guid>
       <description></description>
     </item>
     

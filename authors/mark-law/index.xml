@@ -5,7 +5,7 @@
     <link>https://danielfurelos.com/authors/mark-law/</link>
       <atom:link href="https://danielfurelos.com/authors/mark-law/index.xml" rel="self" type="application/rss+xml" />
     <description>Mark Law</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 Feb 2020 20:11:14 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 12 Mar 2021 20:11:14 +0000</lastBuildDate>
     <image>
       <url>https://danielfurelos.com/img/icon-192.png</url>
       <title>Mark Law</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>Induction and Exploitation of Subgoal Automata for Reinforcement Learning</title>
+      <link>https://danielfurelos.com/publication/furelosblancoljbr21/</link>
+      <pubDate>Fri, 12 Mar 2021 20:11:14 +0000</pubDate>
+      <guid>https://danielfurelos.com/publication/furelosblancoljbr21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Induction of Subgoal Automata for Reinforcement Learning</title>
-      <link>https://danielfurelos.com/publication/furelos-blanco-2020/</link>
+      <link>https://danielfurelos.com/publication/furelosblancolrbj20/</link>
       <pubDate>Tue, 11 Feb 2020 20:11:14 +0000</pubDate>
-      <guid>https://danielfurelos.com/publication/furelos-blanco-2020/</guid>
+      <guid>https://danielfurelos.com/publication/furelosblancolrbj20/</guid>
       <description></description>
     </item>
     

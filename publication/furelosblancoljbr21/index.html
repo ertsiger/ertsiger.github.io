@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="In this work we present a novel approach to solving concurrent multiagent planning problems in which several agents act in parallel. Our approach relies on a compilation from concurrent multiagent planning to classical planning, allowing us to use an off-the-shelf classical planner to solve the original multiagent problem. The solution can be directly interpreted as a concurrent plan that satisfies a given set of concurrency constraints, while avoiding the exponential blowup associated with concurrent actions. Theoretically, we show that the compilation is sound and complete. Empirically, we show that our compilation can solve challenging multiagent planning problems that require concurrent actions.">
+  <meta name="description" content="In this paper we present ISA, an approach for learning and exploiting subgoals in episodic reinforcement learning (RL) tasks. ISA interleaves reinforcement learning with the induction of a subgoal automaton, an automaton whose edges are labeled by the task’s subgoals expressed as propositional logic formulas over a set of high-level events. A subgoal automaton also consists of two special states: a state indicating the successful completion of the task, and a state indicating that the task has finished without succeeding. A state-of-the-art inductive logic programming system is used to learn a subgoal automaton that covers the traces of high-level events observed by the RL agent. When the currently exploited automaton does not correctly recognize a trace, the automaton learner induces a new automaton that covers that trace. The interleaving process guarantees the induction of automata with the minimum number of states, and applies a symmetry breaking mechanism to shrink the search space whilst remaining complete. We evaluate ISA in several gridworld and continuous state space problems using different RL algorithms that leverage the automaton structures. We provide an in-depth empirical analysis of the automaton learning performance in terms of the traces, the symmetry breaking and specific restrictions imposed on the final learnable automaton. For each class of RL problem, we show that the learned automata can be successfully exploited to learn policies that reach the goal, achieving an average reward comparable to the case where automata are not learned but handcrafted and given beforehand.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://danielfurelos.com/publication/furelos-blanco-2018c/">
+  <link rel="alternate" hreflang="en-us" href="https://danielfurelos.com/publication/furelosblancoljbr21/">
 
   
 
@@ -83,7 +83,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.a3cda781a9b24f26fefd34a53547835b.css">
+  <link rel="stylesheet" href="/css/academic.min.55bfd6bc929256057feea87972fb6679.css">
 
   
 
@@ -101,7 +101,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://danielfurelos.com/publication/furelos-blanco-2018c/">
+  <link rel="canonical" href="https://danielfurelos.com/publication/furelosblancoljbr21/">
 
   
   
@@ -114,15 +114,15 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Daniel Furelos-Blanco">
-  <meta property="og:url" content="https://danielfurelos.com/publication/furelos-blanco-2018c/">
-  <meta property="og:title" content="Solving Concurrent Multiagent Planning using Classical Planning | Daniel Furelos-Blanco">
-  <meta property="og:description" content="In this work we present a novel approach to solving concurrent multiagent planning problems in which several agents act in parallel. Our approach relies on a compilation from concurrent multiagent planning to classical planning, allowing us to use an off-the-shelf classical planner to solve the original multiagent problem. The solution can be directly interpreted as a concurrent plan that satisfies a given set of concurrency constraints, while avoiding the exponential blowup associated with concurrent actions. Theoretically, we show that the compilation is sound and complete. Empirically, we show that our compilation can solve challenging multiagent planning problems that require concurrent actions."><meta property="og:image" content="https://danielfurelos.com/img/icon-192.png">
+  <meta property="og:url" content="https://danielfurelos.com/publication/furelosblancoljbr21/">
+  <meta property="og:title" content="Induction and Exploitation of Subgoal Automata for Reinforcement Learning | Daniel Furelos-Blanco">
+  <meta property="og:description" content="In this paper we present ISA, an approach for learning and exploiting subgoals in episodic reinforcement learning (RL) tasks. ISA interleaves reinforcement learning with the induction of a subgoal automaton, an automaton whose edges are labeled by the task’s subgoals expressed as propositional logic formulas over a set of high-level events. A subgoal automaton also consists of two special states: a state indicating the successful completion of the task, and a state indicating that the task has finished without succeeding. A state-of-the-art inductive logic programming system is used to learn a subgoal automaton that covers the traces of high-level events observed by the RL agent. When the currently exploited automaton does not correctly recognize a trace, the automaton learner induces a new automaton that covers that trace. The interleaving process guarantees the induction of automata with the minimum number of states, and applies a symmetry breaking mechanism to shrink the search space whilst remaining complete. We evaluate ISA in several gridworld and continuous state space problems using different RL algorithms that leverage the automaton structures. We provide an in-depth empirical analysis of the automaton learning performance in terms of the traces, the symmetry breaking and specific restrictions imposed on the final learnable automaton. For each class of RL problem, we show that the learned automata can be successfully exploited to learn policies that reach the goal, achieving an average reward comparable to the case where automata are not learned but handcrafted and given beforehand."><meta property="og:image" content="https://danielfurelos.com/img/icon-192.png">
   <meta property="twitter:image" content="https://danielfurelos.com/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2018-06-30T20:11:14&#43;00:00">
+      <meta property="article:published_time" content="2021-03-12T20:11:14&#43;00:00">
     
-    <meta property="article:modified_time" content="2018-06-30T20:11:14&#43;00:00">
+    <meta property="article:modified_time" content="2021-03-12T20:11:14&#43;00:00">
   
 
   
@@ -146,12 +146,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://danielfurelos.com/publication/furelos-blanco-2018c/"
+    "@id": "https://danielfurelos.com/publication/furelosblancoljbr21/"
   },
-  "headline": "Solving Concurrent Multiagent Planning using Classical Planning",
+  "headline": "Induction and Exploitation of Subgoal Automata for Reinforcement Learning",
   
-  "datePublished": "2018-06-30T20:11:14Z",
-  "dateModified": "2018-06-30T20:11:14Z",
+  "datePublished": "2021-03-12T20:11:14Z",
+  "dateModified": "2021-03-12T20:11:14Z",
   
   "author": {
     "@type": "Person",
@@ -166,7 +166,7 @@
       "url": "https://danielfurelos.com/img/icon-512.png"
     }
   },
-  "description": "In this work we present a novel approach to solving concurrent multiagent planning problems in which several agents act in parallel. Our approach relies on a compilation from concurrent multiagent planning to classical planning, allowing us to use an off-the-shelf classical planner to solve the original multiagent problem. The solution can be directly interpreted as a concurrent plan that satisfies a given set of concurrency constraints, while avoiding the exponential blowup associated with concurrent actions. Theoretically, we show that the compilation is sound and complete. Empirically, we show that our compilation can solve challenging multiagent planning problems that require concurrent actions."
+  "description": "In this paper we present ISA, an approach for learning and exploiting subgoals in episodic reinforcement learning (RL) tasks. ISA interleaves reinforcement learning with the induction of a subgoal automaton, an automaton whose edges are labeled by the task’s subgoals expressed as propositional logic formulas over a set of high-level events. A subgoal automaton also consists of two special states: a state indicating the successful completion of the task, and a state indicating that the task has finished without succeeding. A state-of-the-art inductive logic programming system is used to learn a subgoal automaton that covers the traces of high-level events observed by the RL agent. When the currently exploited automaton does not correctly recognize a trace, the automaton learner induces a new automaton that covers that trace. The interleaving process guarantees the induction of automata with the minimum number of states, and applies a symmetry breaking mechanism to shrink the search space whilst remaining complete. We evaluate ISA in several gridworld and continuous state space problems using different RL algorithms that leverage the automaton structures. We provide an in-depth empirical analysis of the automaton learning performance in terms of the traces, the symmetry breaking and specific restrictions imposed on the final learnable automaton. For each class of RL problem, we show that the learned automata can be successfully exploited to learn policies that reach the goal, achieving an average reward comparable to the case where automata are not learned but handcrafted and given beforehand."
 }
 </script>
 
@@ -184,7 +184,7 @@
 
 
 
-  <title>Solving Concurrent Multiagent Planning using Classical Planning | Daniel Furelos-Blanco</title>
+  <title>Induction and Exploitation of Subgoal Automata for Reinforcement Learning | Daniel Furelos-Blanco</title>
 
 </head>
 
@@ -286,16 +286,9 @@
         
         
         
-          
-          
-          
-            
-          
-          
-        
 
         <li class="nav-item">
-          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+          <a class="nav-link  active" href="/publication"><span>Publications</span></a>
         </li>
 
         
@@ -306,25 +299,16 @@
         
         
         
-          
-        
 
         
         
         
         
         
-        
-          
-          
-          
-            
-          
-          
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#posts"><span>Blog</span></a>
+          <a class="nav-link " href="/post"><span>Blog</span></a>
         </li>
 
         
@@ -379,7 +363,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Solving Concurrent Multiagent Planning using Classical Planning</h1>
+  <h1>Induction and Exploitation of Subgoal Automata for Reinforcement Learning</h1>
 
   
 
@@ -400,7 +384,7 @@
 
 
   
-  <span><a href="/authors/daniel-furelos-blanco/">Daniel Furelos-Blanco</a></span>, <span><a href="/authors/anders-jonsson/">Anders Jonsson</a></span>
+  <span><a href="/authors/daniel-furelos-blanco/">Daniel Furelos-Blanco</a></span>, <span><a href="/authors/mark-law/">Mark Law</a></span>, <span><a href="/authors/anders-jonsson/">Anders Jonsson</a></span>, <span><a href="/authors/krysia-broda/">Krysia Broda</a></span>, <span><a href="/authors/alessandra-russo/">Alessandra Russo</a></span>
 
   </div>
   
@@ -412,7 +396,7 @@
     
       
     
-    June 2018
+    March 2021
   </span>
   
 
@@ -440,7 +424,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://danielfurelos.com/publication/furelos-blanco-2018c/&amp;text=Solving%20Concurrent%20Multiagent%20Planning%20using%20Classical%20Planning" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://danielfurelos.com/publication/furelosblancoljbr21/&amp;text=Induction%20and%20Exploitation%20of%20Subgoal%20Automata%20for%20Reinforcement%20Learning" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -453,7 +437,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://danielfurelos.com/publication/furelos-blanco-2018c/&amp;t=Solving%20Concurrent%20Multiagent%20Planning%20using%20Classical%20Planning" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://danielfurelos.com/publication/furelosblancoljbr21/&amp;t=Induction%20and%20Exploitation%20of%20Subgoal%20Automata%20for%20Reinforcement%20Learning" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -466,7 +450,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Solving%20Concurrent%20Multiagent%20Planning%20using%20Classical%20Planning&amp;body=https://danielfurelos.com/publication/furelos-blanco-2018c/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Induction%20and%20Exploitation%20of%20Subgoal%20Automata%20for%20Reinforcement%20Learning&amp;body=https://danielfurelos.com/publication/furelosblancoljbr21/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -479,7 +463,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://danielfurelos.com/publication/furelos-blanco-2018c/&amp;title=Solving%20Concurrent%20Multiagent%20Planning%20using%20Classical%20Planning" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://danielfurelos.com/publication/furelosblancoljbr21/&amp;title=Induction%20and%20Exploitation%20of%20Subgoal%20Automata%20for%20Reinforcement%20Learning" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -492,7 +476,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Solving%20Concurrent%20Multiagent%20Planning%20using%20Classical%20Planning%20https://danielfurelos.com/publication/furelos-blanco-2018c/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Induction%20and%20Exploitation%20of%20Subgoal%20Automata%20for%20Reinforcement%20Learning%20https://danielfurelos.com/publication/furelosblancoljbr21/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -505,7 +489,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://danielfurelos.com/publication/furelos-blanco-2018c/&amp;title=Solving%20Concurrent%20Multiagent%20Planning%20using%20Classical%20Planning" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://danielfurelos.com/publication/furelosblancoljbr21/&amp;title=Induction%20and%20Exploitation%20of%20Subgoal%20Automata%20for%20Reinforcement%20Learning" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -542,6 +526,14 @@
 
 
 
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2009.03855" target="_blank" rel="noopener">
+  Preprint
+</a>
+
 
 
 
@@ -551,14 +543,14 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="http://hdl.handle.net/10230/34741" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://jair.org/index.php/jair/article/view/12372" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/furelos-blanco-2018c/cite.bib">
+        data-filename="/publication/furelosblancoljbr21/cite.bib">
   Cite
 </button>
 
@@ -567,7 +559,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/aig-upf/universal-pddl-parser-multiagent" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/ertsiger/induction-subgoal-automata-rl" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -578,17 +570,13 @@
 
 
 
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1" href="/publication/furelos-blanco-2018c/slides.pdf" target="_blank" rel="noopener">
-  Slides
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1613/jair.1.12372" target="_blank" rel="noopener">
+  DOI
 </a>
-
-
-
-
 
 
 
@@ -604,7 +592,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">In this work we present a novel approach to solving concurrent multiagent planning problems in which several agents act in parallel. Our approach relies on a compilation from concurrent multiagent planning to classical planning, allowing us to use an off-the-shelf classical planner to solve the original multiagent problem. The solution can be directly interpreted as a concurrent plan that satisfies a given set of concurrency constraints, while avoiding the exponential blowup associated with concurrent actions. Theoretically, we show that the compilation is sound and complete. Empirically, we show that our compilation can solve challenging multiagent planning problems that require concurrent actions.</p>
+    <p class="pub-abstract">In this paper we present ISA, an approach for learning and exploiting subgoals in episodic reinforcement learning (RL) tasks. ISA interleaves reinforcement learning with the induction of a subgoal automaton, an automaton whose edges are labeled by the task’s subgoals expressed as propositional logic formulas over a set of high-level events. A subgoal automaton also consists of two special states: a state indicating the successful completion of the task, and a state indicating that the task has finished without succeeding. A state-of-the-art inductive logic programming system is used to learn a subgoal automaton that covers the traces of high-level events observed by the RL agent. When the currently exploited automaton does not correctly recognize a trace, the automaton learner induces a new automaton that covers that trace. The interleaving process guarantees the induction of automata with the minimum number of states, and applies a symmetry breaking mechanism to shrink the search space whilst remaining complete. We evaluate ISA in several gridworld and continuous state space problems using different RL algorithms that leverage the automaton structures. We provide an in-depth empirical analysis of the automaton learning performance in terms of the traces, the symmetry breaking and specific restrictions imposed on the final learnable automaton. For each class of RL problem, we show that the learned automata can be successfully exploited to learn policies that reach the goal, achieving an average reward comparable to the case where automata are not learned but handcrafted and given beforehand.</p>
     
 
     
@@ -616,8 +604,8 @@
           <div class="col-12 col-md-9">
             
             
-            <a href="/publication/#1">
-              Conference paper
+            <a href="/publication/#2">
+              Journal article
             </a>
             
           </div>
@@ -634,7 +622,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">Proceedings of the 6th Workshop on Distributed and Multi-Agent Planning (DMAP) at the 28th International Conference on Automated Planning and Scheduling (ICAPS-18)</div>
+          <div class="col-12 col-md-9">Journal of Artificial Intelligence Research (JAIR)</div>
         </div>
       </div>
       <div class="col-md-1"></div>
