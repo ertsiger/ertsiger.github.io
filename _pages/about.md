@@ -6,7 +6,7 @@ subtitle: <strong>Ph.D. Student</strong> @ <a href='#'>Imperial College London</
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: #prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
 
