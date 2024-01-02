@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://danielfurelos.com/sitemap.xml
+Sitemap: https://ertsiger.github.io/sitemap.xml
