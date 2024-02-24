@@ -21,7 +21,9 @@ nav_order: 2
 <h1>Workshop, Extended Abstract and Demo Publications</h1>
 {% bibliography -f {{ site.scholar.bibliography }} -q @*[category=workshop] %}
 
+<!--
 <h1>Preprints</h1>
 {% bibliography -f {{ site.scholar.bibliography }} -q @*[category=preprint] %}
+>
 
 </div>
